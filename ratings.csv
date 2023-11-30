@@ -1,62 +1,92 @@
 Date,Name,Year,Letterboxd URI,Rating
-2023-09-01,On the Line,2022,https://boxd.it/B0DK,1.5
-2023-09-02,Past Lives,2023,https://boxd.it/oNB8,5
-2023-09-03,I Origins,2014,https://boxd.it/7aRM,5
-2023-09-04,An Argentinian in New York,1998,https://boxd.it/7Hte,3.5
-2023-09-05,Your Son,2018,https://boxd.it/jt44,2.5
-2023-09-06,2:37,2006,https://boxd.it/27i0,4
-2023-09-07,4x4,2019,https://boxd.it/l8PC,2.5
-2023-09-08,Truman,2015,https://boxd.it/bocw,4
-2023-09-09,No Hard Feelings,2023,https://boxd.it/xouu,4
-2023-09-10,7 Boxes,2012,https://boxd.it/4byq,4.5
-2023-09-11,Remember Me,2010,https://boxd.it/1zyI,3.5
-2023-09-12,Miracle in Cell No. 7,2019,https://boxd.it/nFrM,4
-2023-09-13,The Crowded Room,2023,https://boxd.it/GViY,4.5
-2023-09-14,Burning Body,2023,https://boxd.it/ICuq,4
-2023-09-15,Killer Book Club,2023,https://boxd.it/Cdmu,3
-2023-09-16,Love at First Sight,2023,https://boxd.it/bUmS,5
-2023-09-17,Infinity Pool,2023,https://boxd.it/oPSK,3.5
-2023-09-18,12 Years a Slave,2013,https://boxd.it/2D2e,2
-2023-09-19,18 Presents,2020,https://boxd.it/nmmo,4.5
-2023-09-20,When You Finish Saving The World,2022,https://boxd.it/pOZW,2.5
-2023-09-21,22 vs. Earth,2021,https://boxd.it/uyDA,3
-2023-09-22,Soul,2020,https://boxd.it/ioLA,4.5
-2023-09-23,Asteroid City,2023,https://boxd.it/s3ds,2
-2023-09-24,30 Nights with My Ex,2022,https://boxd.it/xhEs,3
-2023-09-25,90 Minutes in Heaven,2015,https://boxd.it/bv1g,2
-2023-09-26,365 Days,2020,https://boxd.it/oJ9O,1.5
-2023-09-27,365 Days: This Day,2022,https://boxd.it/vhbc,1
-2023-09-28,The Next 365 Days,2022,https://boxd.it/vhaS,0.5
-2023-09-29,The Wonderful Story of Henry Sugar,2023,https://boxd.it/yNyo,4.5
-2023-09-30,"Red, White & Royal Blue",2023,https://boxd.it/z3iG,3
-2023-10-01,The Disappearance of Eleanor Rigby: Him,2013,https://boxd.it/8pIs,3.5
-2023-10-02,The Accused,2018,https://boxd.it/iPiU,3.5
-2023-10-03,A Mother's Son,2012,https://boxd.it/bsQg,4
-2023-10-04,The Heist of the Century,2020,https://boxd.it/mvuY,4
-2023-10-05,(500) Days of Summer,2009,https://boxd.it/1EmM,4.5
-2023-10-06,Amour,2012,https://boxd.it/34Q6,0.5
-2023-10-07,An Unexpected Love,2018,https://boxd.it/jvcO,1
-2023-10-08,The Weasel's Tale,2019,https://boxd.it/l5f2,4
-2023-10-09,Clemency,2019,https://boxd.it/kIko,1
-2023-10-10,Strange Way of Life,2023,https://boxd.it/Aomw,3.5
-2023-10-11,The Disappearance of Eleanor Rigby: Her,2013,https://boxd.it/8m8Q,3.5
-2023-10-12,Unpregnant,2020,https://boxd.it/nrH2,4
-2023-10-13,Bodies Bodies Bodies,2022,https://boxd.it/iRcE,4
-2023-10-14,9 Songs,2004,https://boxd.it/702,3
-2023-10-15,Blondi,2023,https://boxd.it/B77m,4
-2023-10-16,Bottoms,2023,https://boxd.it/uGf2,4.5
-2023-10-17,Watcher,2022,https://boxd.it/uocO,4
-2023-10-18,The Son,2022,https://boxd.it/umm8,4.5
-2023-10-19,La uruguaya,2022,https://boxd.it/xgQW,3.5
-2023-10-20,Lion's Heart,2013,https://boxd.it/6BDK,3
-2023-10-21,Adrift,2018,https://boxd.it/fdiG,4.5
-2023-10-22,Doomed,2014,https://boxd.it/xmjk,4
-2023-10-23,So Much Love to Give,2020,https://boxd.it/oBXQ,2.5
-2023-10-24,The Swan,2023,https://boxd.it/Is80,4
-2023-10-25,The Rat Catcher,2023,https://boxd.it/Is8a,1.5
-2023-10-26,Poison,2023,https://boxd.it/Is7Q,4
-2023-10-27,The Wild Children,2012,https://boxd.it/3HZc,3.5
-2023-10-28,White Coffin,2016,https://boxd.it/e0vq,1
-2023-10-29,Nowhere,2023,https://boxd.it/HypO,3.5
-2023-10-30,I'm Not Your Mom,2019,https://boxd.it/mvBK,3
-2023-10-31,Vivarium,2019,https://boxd.it/gmVE,3
+2023-09-02,On the Line,2022,https://boxd.it/B0DK,1.5
+2023-09-04,I Origins,2014,https://boxd.it/7aRM,5
+2023-09-05,An Argentinian in New York,1998,https://boxd.it/7Hte,3.5
+2023-09-06,Your Son,2018,https://boxd.it/jt44,2.5
+2023-09-07,2:37,2006,https://boxd.it/27i0,4
+2023-09-08,4x4,2019,https://boxd.it/l8PC,2.5
+2023-09-09,Truman,2015,https://boxd.it/bocw,4
+2023-09-10,No Hard Feelings,2023,https://boxd.it/xouu,4
+2023-09-11,7 Boxes,2012,https://boxd.it/4byq,4.5
+2023-09-12,Remember Me,2010,https://boxd.it/1zyI,3.5
+2023-09-13,Miracle in Cell No. 7,2019,https://boxd.it/nFrM,4
+2023-09-14,The Crowded Room,2023,https://boxd.it/GViY,4.5
+2023-09-15,Burning Body,2023,https://boxd.it/ICuq,4
+2023-09-16,Killer Book Club,2023,https://boxd.it/Cdmu,3
+2023-09-17,Love at First Sight,2023,https://boxd.it/bUmS,5
+2023-09-18,Infinity Pool,2023,https://boxd.it/oPSK,3.5
+2023-09-19,12 Years a Slave,2013,https://boxd.it/2D2e,2
+2023-09-20,18 Presents,2020,https://boxd.it/nmmo,4.5
+2023-09-21,When You Finish Saving The World,2022,https://boxd.it/pOZW,2.5
+2023-09-22,22 vs. Earth,2021,https://boxd.it/uyDA,3
+2023-09-23,Soul,2020,https://boxd.it/ioLA,4.5
+2023-09-24,Asteroid City,2023,https://boxd.it/s3ds,2
+2023-09-25,30 Nights with My Ex,2022,https://boxd.it/xhEs,3
+2023-09-26,90 Minutes in Heaven,2015,https://boxd.it/bv1g,2
+2023-09-27,365 Days,2020,https://boxd.it/oJ9O,1.5
+2023-09-28,365 Days: This Day,2022,https://boxd.it/vhbc,1
+2023-09-29,The Next 365 Days,2022,https://boxd.it/vhaS,0.5
+2023-09-30,The Wonderful Story of Henry Sugar,2023,https://boxd.it/yNyo,4.5
+2023-09-30,Past Lives,2023,https://boxd.it/oNB8,5
+2023-10-01,"Red, White & Royal Blue",2023,https://boxd.it/z3iG,3
+2023-10-02,The Disappearance of Eleanor Rigby: Him,2013,https://boxd.it/8pIs,3.5
+2023-10-03,The Accused,2018,https://boxd.it/iPiU,3.5
+2023-10-04,A Mother's Son,2012,https://boxd.it/bsQg,4
+2023-10-05,The Heist of the Century,2020,https://boxd.it/mvuY,4
+2023-10-06,(500) Days of Summer,2009,https://boxd.it/1EmM,4.5
+2023-10-07,Amour,2012,https://boxd.it/34Q6,0.5
+2023-10-08,An Unexpected Love,2018,https://boxd.it/jvcO,1
+2023-10-09,The Weasel's Tale,2019,https://boxd.it/l5f2,4
+2023-10-10,Clemency,2019,https://boxd.it/kIko,1
+2023-10-11,Strange Way of Life,2023,https://boxd.it/Aomw,3.5
+2023-10-13,Unpregnant,2020,https://boxd.it/nrH2,4
+2023-10-13,The Disappearance of Eleanor Rigby: Her,2013,https://boxd.it/8m8Q,3.5
+2023-10-14,Bodies Bodies Bodies,2022,https://boxd.it/iRcE,4
+2023-10-15,9 Songs,2004,https://boxd.it/702,3
+2023-10-16,Blondi,2023,https://boxd.it/B77m,4
+2023-10-17,Bottoms,2023,https://boxd.it/uGf2,4.5
+2023-10-18,Watcher,2022,https://boxd.it/uocO,4
+2023-10-19,The Son,2022,https://boxd.it/umm8,4.5
+2023-10-20,The Girl from Uruguay,2022,https://boxd.it/xgQW,3.5
+2023-10-21,Lion's Heart,2013,https://boxd.it/6BDK,3
+2023-10-22,Adrift,2018,https://boxd.it/fdiG,4.5
+2023-10-23,Doomed,2014,https://boxd.it/xmjk,4
+2023-10-24,So Much Love to Give,2020,https://boxd.it/oBXQ,2.5
+2023-10-25,The Swan,2023,https://boxd.it/Is80,4
+2023-10-26,The Rat Catcher,2023,https://boxd.it/Is8a,1.5
+2023-10-27,Poison,2023,https://boxd.it/Is7Q,4
+2023-10-28,The Wild Children,2012,https://boxd.it/3HZc,3.5
+2023-10-29,White Coffin,2016,https://boxd.it/e0vq,1
+2023-10-30,Nowhere,2023,https://boxd.it/HypO,3.5
+2023-10-31,I'm Not Your Mom,2019,https://boxd.it/mvBK,3
+2023-11-02,Forgive Us Our Trespasses,2022,https://boxd.it/z21u,3
+2023-11-02,Vivarium,2019,https://boxd.it/gmVE,3.5
+2023-11-03,Coco,2017,https://boxd.it/bYJQ,4.5
+2023-11-04,10 Things I Hate About You,1999,https://boxd.it/23AO,4.5
+2023-11-05,Anita,2009,https://boxd.it/1nQq,3.5
+2023-11-06,Fingernails,2023,https://boxd.it/tJ82,4
+2023-11-07,Another Earth,2011,https://boxd.it/rRA,2.5
+2023-11-08,The After,2023,https://boxd.it/Ikpi,3.5
+2023-11-09,Mean Girls,2004,https://boxd.it/1VNg,5
+2023-11-10,El castigo,2022,https://boxd.it/Cx0I,4
+2023-11-11,Life Itself,2018,https://boxd.it/fUda,4.5
+2023-11-12,Only You,2018,https://boxd.it/iAMg,5
+2023-11-13,My Love or My Passion,2017,https://boxd.it/gKFq,2.5
+2023-11-14,We Need to Talk About Kevin,2011,https://boxd.it/2pTS,3.5
+2023-11-15,Purple Hearts,2022,https://boxd.it/sFiK,2.5
+2023-11-16,Fair Play,2023,https://boxd.it/yirc,3.5
+2023-11-17,When Evil Lurks,2023,https://boxd.it/rXBe,4
+2023-11-18,Soulmates,2020,https://boxd.it/J8RQ,3.5
+2023-11-19,Animal,2018,https://boxd.it/i2tu,3.5
+2023-11-20,Inseparables,2016,https://boxd.it/eMfU,3.5
+2023-11-21,Normal People,2020,https://boxd.it/q2VY,5
+2023-11-22,Rojo,2018,https://boxd.it/jFtq,1
+2023-11-24,The Lobbyist,2018,https://boxd.it/HLGS,3.5
+2023-11-24,Wandering Heart,2021,https://boxd.it/rT7Y,4
+2023-11-25,The Clan,2015,https://boxd.it/bQmO,4
+2023-11-26,Historia de un clan,2015,https://boxd.it/vEHg,3.5
+2023-11-27,The Lost Brother,2017,https://boxd.it/fWSO,4
+2023-11-28,Boy Erased,2018,https://boxd.it/gWxe,2.5
+2023-11-29,The Intruder,2020,https://boxd.it/oRDi,3
+2023-11-30,I Don't Expect Anyone to Believe Me,2023,https://boxd.it/HkLm,3.5
+2023-12-01,Elena Knows,2023,https://boxd.it/zLy4,4
