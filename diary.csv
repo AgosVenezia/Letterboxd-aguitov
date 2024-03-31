@@ -79,7 +79,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-11-18,Soulmates,2020,https://boxd.it/5b4l0j,3.5,,,2023-11-17
 2023-11-19,Animal,2018,https://boxd.it/5bie0T,3.5,,,2023-11-18
 2023-11-20,Inseparables,2016,https://boxd.it/5bB6u5,3.5,,,2023-11-19
-2023-11-21,Normal People,2020,https://boxd.it/5c9ytR,5,Yes,,2023-11-20
+2023-11-21,Normal People,2020,https://boxd.it/5c9ytR,5,Yes,profile,2023-11-20
 2023-11-22,Rojo,2018,https://boxd.it/5cmy57,1,,,2023-11-21
 2023-11-24,The Lobbyist,2018,https://boxd.it/5cVTyJ,3.5,,,2023-11-22
 2023-11-24,Wandering Heart,2021,https://boxd.it/5cVXxl,4,,,2023-11-23
@@ -108,7 +108,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-12-17,Fellow Travelers,2023,https://boxd.it/5kQIJ9,4.5,Yes,,2023-12-16
 2023-12-18,Love After Music,2023,https://boxd.it/5lfIN1,4.5,,,2023-12-17
 2023-12-19,The Man Next Door,2009,https://boxd.it/5lIQqn,1,,,2023-12-18
-2023-12-20,A Perfect Story,2023,https://boxd.it/5m50GJ,5,Yes,,2023-12-19
+2024-03-23,El Potro: Unstoppable,2018,https://boxd.it/66LrQp,2.5,Yes,,2023-12-19
 2023-12-21,Los Marziano,2011,https://boxd.it/5mspOf,1,,,2023-12-20
 2023-12-23,My Masterpiece,2018,https://boxd.it/5nexHH,1.5,,,2023-12-21
 2023-12-23,The Distinguished Citizen,2016,https://boxd.it/5neV9p,0.5,,,2023-12-22
@@ -128,7 +128,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-01-06,Chinese Take-Away,2011,https://boxd.it/5vlQqr,3.5,,,2024-01-05
 2024-01-20,Appropriate Adult,2011,https://boxd.it/5DmFar,3.5,,,2024-01-06
 2024-01-08,Foe,2023,https://boxd.it/5wRIxd,3.5,,,2024-01-07
-2024-01-09,The Time It Takes,2021,https://boxd.it/5xwjy3,5,Yes,,2024-01-08
+2024-01-09,The Time It Takes,2021,https://boxd.it/5xwjy3,5,Yes,profile,2024-01-08
 2024-01-10,Trópico,2020,https://boxd.it/5y5Dfv,2.5,,,2024-01-09
 2024-01-11,The Wrath of God,2022,https://boxd.it/5yC8EF,3,,,2024-01-10
 2024-01-12,Abzurdah,2015,https://boxd.it/5zaXBv,3,,,2024-01-11
@@ -144,11 +144,11 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-01-22,Crazy About Her,2021,https://boxd.it/5EuIAn,4.5,Yes,,2024-01-21
 2024-01-23,The Last Letter from Your Lover,2021,https://boxd.it/5EYkZD,5,Yes,,2024-01-22
 2024-01-24,Weekend at Bernie's,1989,https://boxd.it/5FohHj,5,Yes,,2024-01-23
-2024-01-25,La Empresa,2020,https://boxd.it/5FTigb,4,Yes,,2024-01-24
+2024-01-25,La empresa,2020,https://boxd.it/5FTigb,4,Yes,,2024-01-24
 2024-01-26,One Day,2011,https://boxd.it/5GlCxx,4.5,Yes,,2024-01-25
 2024-01-27,Yí (Endless River),2020,https://boxd.it/5GMsjf,3,Yes,,2024-01-26
 2024-01-28,Weekend at Bernie's II,1993,https://boxd.it/5HhkRF,4.5,Yes,,2024-01-27
-2024-01-29,Rodríguez y El Cambio Climático,2017,https://boxd.it/5HU3rX,3,Yes,,2024-01-28
+2024-01-29,Rodríguez y el cambio climático,2017,https://boxd.it/5HU3rX,3,Yes,,2024-01-28
 2024-01-30,Interstellar,2014,https://boxd.it/5Iwa1j,4.5,,,2024-01-29
 2024-01-31,Through My Window,2022,https://boxd.it/5IWdKD,2.5,Yes,,2024-01-30
 2024-02-01,Through My Window: Across the Sea,2023,https://boxd.it/5JlA7T,2.5,,,2024-01-31
@@ -162,7 +162,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-02-09,The Class: Life After,2010,https://boxd.it/5MZR2j,5,,,2024-02-08
 2024-02-10,Society of the Snow: Who Were We on the Mountain?,2024,https://boxd.it/5Nm7B9,4.5,,,2024-02-09
 2024-02-11,Luca,2021,https://boxd.it/5NOpsl,5,,,2024-02-10
-2024-02-12,Making True Detective,2014,https://boxd.it/5Ojp8n,5,Yes,,2024-02-11
+2024-03-09,Necktie,2013,https://boxd.it/60ghxL,1,Yes,,2024-02-11
 2024-02-13,Aftersun,2022,https://boxd.it/5ONP5J,5,Yes,,2024-02-12
 2024-02-14,Ciao Alberto,2021,https://boxd.it/5PeWm7,4.5,Yes,,2024-02-13
 2024-02-15,The Kiss,1896,https://boxd.it/5PCYM5,2,,,2024-02-14
@@ -181,3 +181,34 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-02-28,A Walk to Remember,2002,https://boxd.it/5VJuFB,4.5,Yes,,2024-02-27
 2024-02-29,American Hustle,2013,https://boxd.it/5W7alp,3.5,,,2024-02-28
 2024-03-01,Killers of the Flower Moon,2023,https://boxd.it/5WzLcF,2,,,2024-02-29
+2024-03-02,¡Atraco!,2012,https://boxd.it/5WWn4X,4.5,,,2024-03-01
+2024-03-03,Baires,2015,https://boxd.it/5Xp3U3,2.5,,,2024-03-02
+2024-03-04,Below Zero,2021,https://boxd.it/5Y1oXD,4,,,2024-03-03
+2024-03-05,Poor Things,2023,https://boxd.it/5YEAnb,4.5,,,2024-03-04
+2024-03-06,"Red, White and Blue",2023,https://boxd.it/5Z364X,4.5,,,2024-03-05
+2024-03-07,Knight of Fortune,2022,https://boxd.it/5Zs0ex,4,,,2024-03-06
+2024-03-08,The Zone of Interest,2023,https://boxd.it/5ZW4yL,4,,,2024-03-07
+2024-03-09,21 Grams,2003,https://boxd.it/60hW9d,4.5,Yes,,2024-03-08
+2024-03-10,Adult World,2013,https://boxd.it/60JplL,4,Yes,,2024-03-09
+2024-03-12,The Red Suitcase,2022,https://boxd.it/61SAHv,4,Yes,,2024-03-10
+2024-03-13,Betibú,2014,https://boxd.it/62peOF,2.5,,,2024-03-11
+2024-03-13,Beautiful Boy,2018,https://boxd.it/62ljKP,5,Yes,,2024-03-12
+2024-03-14,Room for Rent,2019,https://boxd.it/62K3Yh,4,,,2024-03-13
+2024-03-15,WAR IS OVER! Inspired by the Music of John & Yoko,2023,https://boxd.it/63azsz,4,,,2024-03-14
+2024-03-16,Alpha Dog,2006,https://boxd.it/63z30X,5,Yes,,2024-03-15
+2024-03-17,Aisha,2022,https://boxd.it/645h6f,4.5,,,2024-03-16
+2024-03-18,The Curse,2023,https://boxd.it/64CwW7,4.5,,,2024-03-17
+2024-03-19,Knock at the Cabin,2023,https://boxd.it/65b5Yv,2.5,,,2024-03-18
+2024-03-20,Birdman or (The Unexpected Virtue of Ignorance),2014,https://boxd.it/65zK6x,1.5,,,2024-03-19
+2024-03-21,Britney vs. Spears,2021,https://boxd.it/65YDWV,3.5,,,2024-03-20
+2024-03-22,Carancho,2010,https://boxd.it/66q1Ov,3,,,2024-03-21
+2024-03-23,A Perfect Story,2023,https://boxd.it/66LIiT,5,Yes,,2024-03-22
+2024-03-24,Expats,2024,https://boxd.it/67ki9r,4,,,2024-03-23
+2024-03-26,See You in Another Life,2024,https://boxd.it/68o9LN,4.5,,,2024-03-24
+2024-03-27,One Day,2024,https://boxd.it/68PCi5,5,,,2024-03-25
+2024-03-28,Never Let Me Go,2010,https://boxd.it/69c9l1,4,Yes,,2024-03-26
+2024-03-29,She's All That,1999,https://boxd.it/69Gq5T,2.5,,,2024-03-27
+2024-03-30,He's All That,2021,https://boxd.it/6a5Orp,3,,,2024-03-28
+2024-03-31,Lords of Dogtown,2005,https://boxd.it/6aAB37,4.5,,,2024-03-29
+2024-04-01,Cenizas pasajeras,2024,https://boxd.it/6b8Woj,3.5,,,2024-03-30
+2024-04-01,The Last Brunch,2024,https://boxd.it/6b9laL,3,Yes,,2024-03-31
