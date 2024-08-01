@@ -7,7 +7,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Review,Tags,Watched Date
 2023-09-07,2:37,2006,https://boxd.it/4OiNvP,4,Yes,"Cuando realmente entendés por qué lado viene la película, te shockea.",,2023-09-06
 2023-09-08,4x4,2019,https://boxd.it/4OyUnZ,2.5,,"Mientras la trama se desarrolla dentro del vehículo, la tensión se mantiene y aumenta. El problema está cuando va saliendo del mismo e incorporando personajes.",,2023-09-07
 2023-09-09,Truman,2015,https://boxd.it/4ONxFr,4,Yes,"Vine por el perrito y me encontré con un hermoso debate sobre la amistad, la muerte y las cuentas pendientes de la vida.",,2023-09-08
-2023-09-10,No Hard Feelings,2023,https://boxd.it/4P7hnr,4,,"Cero expectativas en esta comedia que me sorprendió gratamente. Divertida, fresca y con un lindo mensaje final.",,2023-09-09
+2023-09-10,No Hard Feelings,2023,https://boxd.it/4P7hnr,4.5,,"Cero expectativas en esta comedia que me sorprendió gratamente. Divertida, fresca y con un lindo mensaje final.",,2023-09-09
 2023-09-11,7 Boxes,2012,https://boxd.it/4Pt3zR,4.5,,"Nivel Hollywood, pero en guaraní.",,2023-09-10
 2023-09-12,Remember Me,2010,https://boxd.it/4POu73,3.5,,"Una fecha no puede ser la responsable de uno de los plot twists más tristes de las últimas décadas...
 
@@ -58,7 +58,7 @@ Alucinante. Wes is back!",,2023-09-29
 2023-10-01,"Red, White & Royal Blue",2023,https://boxd.it/4V8h9l,3,,"Entretenida, con lindos momentos de diversión y/o melancolía, pero que no aporta nada nuevo al género.",,2023-09-30
 2023-10-02,The Disappearance of Eleanor Rigby: Him,2013,https://boxd.it/4Vu1Or,3.5,,"<a href=""https://boxd.it/4Vu1Or"">The Disappearance of Eleanor Rigby: Him ✔️</a>
 <a href=""https://boxd.it/4YReqv"">The Disappearance of Eleanor Rigby: Her</a>
-<a href=""#"">The Disappearance of Eleanor Rigby: Them</a>
+<a href=""https://boxd.it/6TMRIz"">The Disappearance of Eleanor Rigby: Them</a>
 
 Una profunda historia de amor y duelo contada desde tres puntos de vista distintos: el de él, el de ella, y el de los dos juntos que, sorprendentemente, es el más neutral de todos.",,2023-10-01
 2023-10-03,The Accused,2018,https://boxd.it/4VSe8h,3.5,Yes,"Logra perfectamente el cometido de los thrillers judiciales: mantenerte intrigada, mediante migajas de pistas, hasta el final.",,2023-10-02
@@ -72,9 +72,9 @@ Una profunda historia de amor y duelo contada desde tres puntos de vista distint
 2023-10-11,Strange Way of Life,2023,https://boxd.it/4YvP1D,3.5,,Almodóvar tenía tramas y calidad actoral de sobra para hacer un largometraje en lugar de un corto.,,2023-10-10
 2023-10-12,The Disappearance of Eleanor Rigby: Her,2013,https://boxd.it/4YReqv,3.5,,"<a href=""https://boxd.it/4Vu1Or"">The Disappearance of Eleanor Rigby: Him ✔️</a>
 <a href=""https://boxd.it/4YReqv"">The Disappearance of Eleanor Rigby: Her ✔️</a>
-<a href=""#"">The Disappearance of Eleanor Rigby: Them</a>
+<a href=""https://boxd.it/6TMRIz"">The Disappearance of Eleanor Rigby: Them</a>
 
-Her posee una visión más intimista, más filosófica, pero necesita ser vista luego de Him para complementar varios detalles.",,2023-10-11
+<i>Her<i> posee una mirada más intimista, más filosófica, pero necesita ser vista luego de <i>Him<i> para complementar varios detalles.",,2023-10-11
 2023-10-13,Unpregnant,2020,https://boxd.it/4Z94CR,4,,"<blockquote>""¿Por qué diablos necesitas el permiso de tus padres para realizarte un aborto pero no para dar a luz a un bebé?""<blockquote>",,2023-10-12
 2023-10-14,Bodies Bodies Bodies,2022,https://boxd.it/4Zt9FL,4,,Mis cuatro estrellas por ese plot twist.,,2023-10-13
 2023-10-15,9 Songs,2004,https://boxd.it/4ZLMrJ,3,Yes,"I'm just here for the music, again.",,2023-10-14
@@ -220,7 +220,7 @@ Quien mucho cuenta, poco explica.",,2024-01-03
 2024-01-08,Foe,2023,https://boxd.it/5wRIxd,3.5,,"Foe retrata el deterioro de las relaciones humanas a la par del deterioro climático de nuestro planeta. La necesidad de reinventarse, de cuidar lo que ya tenemos, pero sin darlo por sentado.
 
 Saoirse Ronan y Paul Mescal están cautivantes en todas las facetas de sus personajes. Tal vez, mi único pero es la extrema similitud con el episodio de la última temporada de Black Mirror, protagonizado por Aaron Paul.",,2024-01-07
-2024-01-09,The Time It Takes,2021,https://boxd.it/5xwjy3,5,Yes,"<blockquote>Pero cada día pensaría un minuto menos en ella. Y así sería un minuto menos de tristeza.<blockquote>
+2024-01-09,The Time It Takes,2021,https://boxd.it/5xwjy3,5,Yes,"<blockquote>""Pero cada día pensaría un minuto menos en ella. Y así sería un minuto menos de tristeza.""<blockquote>
 
 Nunca la había vuelto a ver desde su estreno, en 2021, y ahora recuerdo por qué: es hermosamente triste, intimista, de esas que te llegan a lo más profundo del corazón y te hacen replantear tus propios vínculos sentimentales. Bellísima.",profile,2024-01-08
 2024-01-10,Trópico,2020,https://boxd.it/5y5Dfv,2.5,,Estas eran las películas argentinas que mirábamos durante el brote simultáneo de Covid y dengue.,,2024-01-09
@@ -399,9 +399,7 @@ This is my kind of movie, de esas que te llegan por todos lados, que te hacen se
 2024-04-15,The Walking Dead: The Return,2024,https://boxd.it/6hbtZb,4,,"Hermoso recorrido, de la mano de los propios Andrew Lincoln y Danai Gurira, por las locaciones más emblemáticas de The Walking Dead. Nostalgia pura porque, SÍ, la serie tuvo momentazos icónicos, y muchos.",,2024-04-13
 2024-04-15,Under the Silver Lake,2018,https://boxd.it/6hcicp,4,,"Una especie de búsqueda del tesoro, pero con delirios místicos y personajes random super raros, que te mantiene totalmente alerta por más de dos horas. 
 
-Gran recomendación de <a href=""https://boxd.it/RsWz"">@FrodoMcBaggins</a> para mi primera participación en <i><b>Letterboxd Film Raffle<b><i>.
-
-Recommended by <a href=""https://boxd.it/RsWz"">@FrodoMcBaggins</a> for <b><a href=""https://boxd.it/utFCk"">r/Letterboxd Film Raffle #92</a><b>.",lbfilmraffle,2024-04-14
+Recomendación de <a href=""https://boxd.it/RsWz"">@FrodoMcBaggins</a> para <a href=""https://boxd.it/utFCk"">r/Letterboxd Film Raffle #92</a>.","lbfilmraffle, r-letterboxd",2024-04-14
 2024-04-16,The Official Story,1985,https://boxd.it/6hEuaB,5,,"<blockquote>""Ningún pueblo podría sobrevivir sin memoria. Y la historia es la memoria de los pueblos.""<blockquote>
 
 Y no por nada la primera película argentina y latinoamericana en ganar un premio Óscar continúa más vigente que nunca. Lamentablemente. Porque, como si se tratara de un mal augurio, el personaje de Hugo Arana esboza que en la guerra que unos pocos ganaron, los que realmente perdieron fueron los pibes, <i>""y lo van a tener que pagar no comiendo y no pudiendo estudiar""<i>. Bueno, acá estamos, casi 40 años después.",,2024-04-15
@@ -415,7 +413,7 @@ Y no por nada la primera película argentina y latinoamericana en ganar un premi
 
 Lo de <i>Bacurau<i> es algo impresionante, un orgullo que venga de un país sudamericano como Brasil. Es arte hecho gore. Un viaje de más de dos horas por un pueblo abandonado que, sin nada, cuenta toda su historia, sus costumbres, sus creencias tan particulares. De lo mejor que he visto en mucho tiempo. Alucinante.
 
-Recommended by <a href=""https://boxd.it/yfPd"">@junglespycamp</a> for <b><a href=""https://boxd.it/uRRCa"">r/Letterboxd Film Raffle #93</a><b>.",lbfilmraffle,2024-04-22
+Recomendación de <a href=""https://boxd.it/yfPd"">@junglespycamp</a> para <a href=""https://boxd.it/uRRCa"">r/Letterboxd Film Raffle #93</a>.","lbfilmraffle, r-letterboxd",2024-04-22
 2024-04-24,Ferris Bueller's Day Off,1986,https://boxd.it/6kI13B,5,Yes,"<blockquote>""Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.""<blockquote>
 
 Siempre le voy a poner cinco estrellas a las comedias ochentosas que me hicieron pasar una infancia hermosa. Classic.",,2024-04-23
@@ -427,13 +425,13 @@ Todo, todo bien hace Dev Patel. Qué hombre.",,2024-04-25
 2024-04-28,Drive-Away Dolls,2024,https://boxd.it/6mcwiV,2.5,,"Entiendo porqué esta película funciona tan bien para algunos: es irreverente, innovadora, visualmente llamativa; pero a mí no me sacó ni una risa, nada.",,2024-04-27
 2024-04-29,Modern Times,1936,https://boxd.it/6mFCTL,5,,"Una maravilla atemporal, mezcla de humor, romance y crítica social. Qué artista de la p... madre Chaplin!
 
-<b><a href=""https://boxd.it/v0zHO"">r/Letterboxd Film Club Challenge 109 - Charlie Chaplin</a><b>",lbfilmclub,2024-04-28
+<a href=""https://boxd.it/v0zHO"">r/Letterboxd Film Club Challenge 109 - Charlie Chaplin</a>","lbfilmclub, r-letterboxd, lbfcc-chaplin",2024-04-28
 2024-05-01,Late Night with the Devil,2023,https://boxd.it/6nEriL,4,,El programa de Mauro Viale se volvió un poco paranormal después de la pelea con Samid.,,2024-04-30
 2024-05-03,The Social Network,2010,https://boxd.it/6oDmPH,5,Yes,"<blockquote>""You are probably going to be a very successful computer person. But you're going to go through life thinking that girls don't like you because you're a nerd. And I want you to know, from the bottom of my heart, that that won't be true. It'll be because you're an asshole.""<blockquote>
 
 Y es ahí, no a los diez, sino a los cinco minutos, que <i>Mark Zuckerberg<i> pierde al jurado por completo.
 
-Recommended by <a href=""https://boxd.it/1hdLX"">@lewez</a> for <b><a href=""https://boxd.it/vdgXu"">r/Letterboxd Film Raffle #94</a><b>.",lbfilmraffle,2024-05-02
+Recomendación de <a href=""https://boxd.it/1hdLX"">@lewez</a> para <a href=""https://boxd.it/vdgXu"">r/Letterboxd Film Raffle #94</a>.","lbfilmraffle, r-letterboxd",2024-05-02
 2024-05-04,Blue Jay,2016,https://boxd.it/6oLt4f,4.5,,"Ochenta minutos, una paleta b&w y dos personajes principales + solo un secundario son más que suficientes para entregarnos una de las películas sobre amor y nostalgia más bellas e íntimas que ví en mi vida.",,2024-05-03
 2024-05-05,The Idea of You,2024,https://boxd.it/6pmvKh,4,,"<i>The Idea of You<i> simplemente no funcionaría sin Anne Hathaway. Su última toma, con esos ojos vidriosos, transmite todo sin decir nada. Alucinante. Y Nicholas Galitzine, fuego fuego.",,2024-05-04
 2024-05-06,Baby Reindeer,2024,https://boxd.it/6pUSzT,5,,"No sé por dónde empezar a escribir sobre <i>Baby Reindeer<i> porque más que para una reseña, esta miniserie está para una tesis de psicología.",,2024-05-05
@@ -456,23 +454,22 @@ Yo también sólo pondría al genio de Elvis Costello en la rocola.",,2024-05-07
 2024-06-01,Challengers,2024,https://boxd.it/6AjeIB,5,,"Yo amo a Josh O'Connor desde que lo vi en <i>Only You<i> (pueden comprobarlo <a href=""https://boxd.it/5960Dv"">aquí</a>) por lo que mis cinco estrellas estaban aseguradas y nulas de juicio crítico, pero la cinematografía de los juegos de tenis, con la cámara tomando la perspectiva de la pelota, es algo magistral. En mi humilde opinión, la mejor película deportiva de los últimos años.",,2024-05-31
 2024-06-01,Black Mirror: The National Anthem,2011,https://boxd.it/6AlHwN,4,Yes,"Si este episodio hubiese llegado en otro momento, tal vez más adelante, no sería tan bien valorado. Pero es el inicio de un hito, y se la jugaron poniendo todo sobre la mesa, con polémica e irreverencia. Así, con un primer ministro y una cerda, comenzaba <i>Black Mirror<i>. El resto es historia.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-04-29
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-04-29
 2024-06-01,Black Mirror: Fifteen Million Merits,2011,https://boxd.it/6AlYIL,3,Yes,"Este es el capítulo de <i>Black Mirror<i> que todos con los que alguna vez hablé sobre la serie aman y a mi me aburre sobremanera. Entiendo su simbolismo y la crítica hacia la sociedad de consumo, tanto material como digital, pero nada, se me hace larguísimo y reiterativo.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-01
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-01
 2024-06-02,Black Mirror: The Entire History of You,2011,https://boxd.it/6AMJGz,4.5,Yes,"El mejor episodio de la primera temporada de <i>Black Mirror<i> está escrito por Jesse Armstrong, quien años después crearía la sublime <i>Succession<i>. Es aquí, con <i>The Entire History of You<i>, que me enamoré de la serie y no la solté jamás. La tecnología como backup y sostén de nuestros recuerdos y sentimientos en un futuro que no parece para nada distópico.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-11
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-11
 2024-06-02,Black Mirror: Be Right Back,2013,https://boxd.it/6AN2gb,5,Yes,"Tan actual que duele. Tan humano que duele. Los sentimientos y el alma logran dejar a la tecnología en un segundo plano para darle lugar a un debate moral e íntimo. Sin dudas, el mejor episodio de la segunda temporada de <i>Black Mirror<i>. Dirigido por Owen Harris, el mismo de <a href=""https://boxd.it/6FcmOX"">San Junipero</a>. Y se nota demasiado.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>
-",,2024-05-12
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-12
 2024-06-03,Black Mirror: White Bear,2013,https://boxd.it/6BbN8L,4.5,Yes,"Uno de los mayores plot twists de la historia de <i>Black Mirror<i> hasta la actualidad. Se siente como un videojuego, frenético, inmersivo, del que no podés dejar de ser parte. Como espectador, siempre, del tan anhelado ¿entretenimiento?.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-14
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-14
 2024-06-03,Black Mirror: The Waldo Moment,2013,https://boxd.it/6Bcwbl,2.5,Yes,"Waldo no es mi tipo de humor ni la política es mi tema de interés. Además, resulta poco creíble la rapidez con la que se desarrolla la idea y se alcanza el clímax de la situación. Lo único a favor es que no nos permiten empatizar con ninguno de los personajes/candidatos, como en la vida real.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-16
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-16
 2024-06-04,Dennis the Menace,1993,https://boxd.it/6BIRDz,3.5,Yes,Los fines de semana de los 90 en la tv de aire eran <i>Daniel el travieso</i> o <i>Mi pobre angelito</i>.,,2024-06-03
 2024-06-05,A Part of You,2024,https://boxd.it/6C7lTF,4.5,,"La crudeza del cine sueco es algo fascinante. De adolescente, <i>Lilja 4-ever</i> me inició en una seguidilla de películas de ese país nórdico que me mostraron otra manera de transmitir las emociones, principalmente la tristeza y el duelo, como en <i>En del av dig</i>, desde un lado más desgarrador e íntimo. Un coming-of-age honesto, transparente. El tener que crecer y salir adelante por obligación, por propia necesidad.",,2024-06-04
 2024-06-06,The Courier,2024,https://boxd.it/6CpScF,4,,"<blockquote>""El dinero a lo bestia corrompe a lo bestia""<blockquote>
@@ -482,33 +479,33 @@ Y cuando <i>El correo<i> te parezca demasiado fantasiosa y llena de inconsistenc
 2024-06-09,The Miseducation of Cameron Post,2018,https://boxd.it/6DufX7,3,,"Ciertas similitudes con <a href=""https://boxd.it/gWxe"">Boy Erased</a> en su trama y desarrollo me transmitieron lo mismo desde lo emocional: una historia poderosa que, a pesar del intento de deconstrucción social constante, lamentablemente sigue ocurriendo, pero que no me permitió empatizar demasiado con ninguno de sus protagonistas.",,2024-06-08
 2024-06-09,Black Mirror: White Christmas,2014,https://boxd.it/6DzbdJ,4.5,Yes,"Disfruté <i>White Christmas<i> muchísimo más que la primera vez. Tal vez, al conocer su final y giro de guión, me pude concentrar mejor en los pequeños detalles y debates que quiere generar. Sin dudas, miraría episodios enteros de cada minihistoria que aquí se nos presenta.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-17
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-17
 2024-06-10,Black Mirror: Nosedive,2016,https://boxd.it/6DXMrB,5,Yes,"Cinco estrellas para Nosedive. Cinco estrellas para desahogarnos y liberarnos como Lacie. Cinco estrellas para esa fotografía color pastel bellísima. Cinco estrellas para el episodio que mejor expresa cómo la tecnología actual influye en la vida cotidiana, cómo moldea nuestra personalidad a su medida. Cinco estrellas para lo más real que nos entrega <i>Black Mirror<i> hasta el momento. ★★★★★.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-19
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-19
 2024-06-10,Bonnie & Clyde,2013,https://boxd.it/6E25T3,4.5,,"Mi adaptación favorita de <i>Bonnie & Clyde<i> hasta la fecha, en formato de miniserie, con dos capítulos de hora y media cada uno. <i>Emile Hirsch<i> es fuego aquí.",,2024-06-09
 2024-06-11,Black Mirror: Playtest,2016,https://boxd.it/6Eq8Il,4.5,Yes,"Muchos coinciden con que la debacle de <i>Black Mirror<i> comienza con su desembarco en <i>Netflix<i>, pero para mi esta tercera temporada tiene la mayoría de los máximos episodios ever, como <a href=""https://boxd.it/6DXMrB"">Nosedive</a>, <a href=""https://boxd.it/6EPwBN"">Shut Up and Dance</a>, <a href=""https://boxd.it/6FcmOX"">San Junipero</a> (SPOILER ALERT, mi top 1 por siempre), y este, Playtest, que no desentona y mantiene la vara de altísima calidad. Funciona mucho mejor que cualquier película de terror actual, jugando no sólo con tu mente sino con tus propios miedos, terrenales y sentimentales.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-24
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-24
 2024-06-11,Conversations with a Killer: The Ted Bundy Tapes,2019,https://boxd.it/6EtJXN,4,,"Si la <a href=""https://boxd.it/6FgGdZ"">película</a> sobre <i>Ted Bundy<i> interpretada por <i>Zac Efron<i> te dejó con más dudas que certezas, como a mi, esta serie documental es la respuesta.",,2024-06-10
 2024-06-12,Black Mirror: Shut Up and Dance,2016,https://boxd.it/6EPwBN,5,Yes,"El final más <i>Black Mirror<i> de todos, donde la tecnología menos distópica e inalcanzable es lo que hace a este episodio real y, lamentablemente, cotidiano.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-25
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-25
 2024-06-13,Black Mirror: San Junipero,2016,https://boxd.it/6FcmOX,5,Yes,"Siempre me molestó que nos subestimen a los que amamos <i>San Junipero<i> con la excusa de que lo aclamamos porque nos gustan los “finales felices”. No es por eso, y hasta podemos debatir si se trata de un final feliz en todo caso. Es, simplemente, el mejor episodio de todas las temporadas de <i>Black Mirror<i> porque te llega al corazón con su estética, su música, el inmersivo paso entre décadas a través de la visual y los sentimientos. El lado positivo de la tecnología edificando el sueño de la vida después de la muerte, la nostálgica eternidad de los lindos momentos.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-26
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-26
 2024-06-13,"Extremely Wicked, Shockingly Evil and Vile",2019,https://boxd.it/6FgGdZ,3.5,,"Para muchos, la mejor actuación de <i>Zac Efron<i> está en <a href=""https://boxd.it/w5Pm"">The Iron Claw</a>. Para mi, está aquí, en la piel de <i>Ted Bundy<i>.
 
 Y como complemento, la docuserie <a href=""https://boxd.it/6EtJXN"">Conversations with a Killer: The Ted Bundy Tapes</a>.",,2024-06-12
 2024-06-14,Black Mirror: Men Against Fire,2016,https://boxd.it/6FyvzV,3.5,Yes,"La tecnología, aunque siempre imprescindible, pasa a un segundo plano para darle lugar al análisis psicológico y social de la moral en tiempos de guerra, del convencimiento de masas por la lucha de algo más grande e importante que uno mismo a costa y a favor de los de siempre, la falta de humanidad ante pares vistos como inferiores, el desprecio a la vida.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-29
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-29
 2024-06-14,El Angel,2018,https://boxd.it/6FzKSl,4.5,Yes,"No es una biopic sino una adaptación muy libre de la vida y crímenes de <i>Robledo Puch<i>, apodado <i>el Ángel de la Muerte<i>, uno de los mayores asesinos en serie de Argentina. El estilo <i>Ortega<i> brilla en esta película que se sostiene en la estética nacional de los 70' y, principalmente, en las actuaciones secundarias de lujo. 
 
 Y sí, el parecido de <i>Toto Ferro<i> es asombroso.",,2024-06-13
 2024-06-15,Black Mirror: Hated in the Nation,2016,https://boxd.it/6FTiLr,4.5,Yes,"Esto es cine al estilo más puro de <i>Black Mirror<i>. No sólo por su duración ni por el modo clásico de los thrillers sobre misteriosos asesinatos, sino por el despliegue visual de alto nivel y, principalmente, por el eterno y siempre actual debate sobre el hate en las redes sociales. Ese vacío legal que no tiene límites y le da a las personas inmunidad para decir, insultar y, en este caso, hacer y dañar exponencialmente a quien y como se les dé la gana, escondidos tras una pantalla, un espejo negro, un avatar y las masas de odiadores. Adiós al futuro distópico, <i>Hated in the Nation<i> es el hoy y ahora.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-05-30
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-05-30
 2024-06-15,Initials S.G.,2019,https://boxd.it/6FWksd,3,,Pocas cosas son más peligrosas que un tipo con tendencia autodestructiva que no tiene nada que perder.,,2024-06-14
 2024-06-16,The Mudboy,2007,https://boxd.it/6Ginen,2.5,,"Una película basada en los crímenes del <i>Petiso Orejudo<i>, el asesino en serie más joven de Argentina, que decide focalizarse más en sus víctimas, dejando al supuesto eje de la historia con poca presencia en pantalla. <i>El Niño de Barro<i> pasó un tanto desapercibida en nuestro propio país y, aún hablando español, tiene escenas dificiles de escuchar y comprender. Ni. No creo volver a verla.",,2024-06-15
 2024-06-17,Am I OK?,2022,https://boxd.it/6GKL6D,3,,"La importancia de la autoaceptación por sobre cómo te ven, o asumen, el resto de las personas. Hermoso mensaje.",,2024-06-16
@@ -519,7 +516,7 @@ Y sí, el parecido de <i>Toto Ferro<i> es asombroso.",,2024-06-13
 2024-06-23,The Mystery of Happiness,2014,https://boxd.it/6J1taz,3,,El conformismo en lo cotidiano versus la búsqueda de la felicidad aún desconocida. Misterio existencial desarrollado a los tumbos pero con un final precioso.,,2024-06-22
 2024-06-24,Black Mirror: USS Callister,2017,https://boxd.it/6Juwq9,4,Yes,"Si lo hubiese calificado la primera vez que lo vi, tendría menos estrellas, dos en todo caso. No sé, no había conectado con el juego/historia ni los efectos visuales me habían volado la cabeza, tal vez porque <i>Star Trek<i> no es mi onda. Pero, por favor, en este rewatch me atrapó por completo y hasta el final, porque no recordaba cómo terminaba. Los gags esconden una fuerte crítica social al sexismo y al abuso de poder, convirtiendo a la ciencia ficción en algo más tangible y actual. Ahora sí estoy de acuerdo con una secuela de <i>USS Callister<i>. Necesito más.
 
-<b><a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a><b>",,2024-06-01
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-06-01
 2024-06-24,7th Floor,2013,https://boxd.it/6JzIcj,2.5,,El final estaba más cantado que <i>Muchachos<i>.,,2024-06-23
 2024-06-25,Francis: Pray for Me,2015,https://boxd.it/6JYxV3,3,,"Las hermosas imágenes de <i>Buenos Aires<i>, al inicio, son lo más memorable de la película. Grandinetti, en la piel de Bergoglio, sale airoso.",,2024-06-24
 2024-06-26,Bridge to Terabithia,2007,https://boxd.it/6KkGKd,3.5,,Pero si yo me crié en los 90 viendo <i>Mi primer beso<i>... debería ser inmune a estos finales. Pues no mi ciela.,,2024-06-25
@@ -534,3 +531,111 @@ Visual y sonoramente es alucinante, pero la historia me perdió a la mitad, aún
 - ""No creo, debe tener segunda parte""</blockquote>
 Y me descolocaron por completo.",,2024-06-29
 2024-07-01,Just Like Me,2010,https://boxd.it/6MdoW5,4,Yes,"Yo sé que acá en <i>Letterboxd<i> nos burlamos de las películas de <i>Suar<i> pero esta, en gran parte gracias a <i>Flor Bertotti<i>, es divertidísima. Mi guilty pleasure argento.",,2024-06-30
+2024-07-02,Blue Jasmine,2013,https://boxd.it/6MHiNr,3,,"<i>Woody Allen<i> retratando personajes femeninos is not my type, pero <i>Cate Blanchett<i> brilla tanto en su elegante papel que convierte a <i>Blue Jasmine<i> de inmirable a decente.",,2024-07-01
+2024-07-03,Triangle of Sadness,2022,https://boxd.it/6N6xMX,4.5,,"El poder intrínseco del poder, valga la redundancia, sin importar en manos de quien esté. La naturaleza humana de conservarlo a cualquier precio. Analizar a <i>Triangle of Sadness<i> como una película marxista y de ricos = malos / pobres = dominados se torna muy superficial cuando, en su lugar, nos podemos cuestionar internamente. ¿Queremos dejar de ser explotados por nuestro propio bienestar o para vengarnos de la élite y convertirnos en una nueva?, porque el universo anticapitalista también se puede corromper. Psicológica y visualmente magnética. De esas obras que hay que ver para salir de la zona de confort.",,2024-07-02
+2024-07-04,The Watchers,2024,https://boxd.it/6Nxtst,2.5,,Llegó un punto de la película en el que sólo me preocupaba el bienestar del loro <i>Darwin<i>.,,2024-07-03
+2024-07-05,Memories of Murder,2003,https://boxd.it/6NViiF,5,,"<blockquote>- “Oigan, ustedes. ¿Qué están haciendo fuera tan tarde?”
+- “Siempre vamos juntas, no pasa nada.”
+- “Si fueran solas tampoco tendría que pasar nada.”<blockquote>
+
+Sin palabras. De esos thrillers policiales clásicos, que te hielan la sangre, pero casi ya no se encuentran de este lado del continente. Visualmente escalofriante, con personajes y acompañamiento sonoro que no te permiten desviar ni un segundo la mirada. Recuerdo pocos mejores veinte minutos finales que los de <i>Memories of Murder<i>.
+
+Recomendación de <a href=""https://boxd.it/4DwAb"">@excidamus</a> para <a href=""https://boxd.it/wyVMI"">r/Letterboxd Film Raffle #98</a>.","lbfilmraffle, r-letterboxd",2024-07-04
+2024-07-06,A Family Affair,2024,https://boxd.it/6OjuyX,2.5,,"<i>Zac Efron<i> en el supermercado like <a href=""https://www.instagram.com/p/C8hh3EAxlzI/""><i>Robbie Williams<i> en el parque</a>.",,2024-07-05
+2024-07-07,Toxic,2020,https://boxd.it/6OKH8x,2,,"El capítulo argento de <a href=""https://boxd.it/rx5c""><i>L'Effondrement<i></a>.",,2024-07-06
+2024-07-08,Paradise for the Damned,2013,https://boxd.it/6PdynB,1.5,,Hasta el mejor sereno del mundo se durmió viendo esta película.,,2024-07-07
+2024-07-09,"Paris, Texas",1984,https://boxd.it/6PJEsr,5,,"Me maravilla que una película creada hace cuarenta años retrate con tanto amor y empatía el dolor de la pérdida, lo que callan las palabras pero dicen los silencios.
+
+<a href=""https://boxd.it/wI5my"">r/Letterboxd Film Club Challenge 113 - Admin Picks</a>","lbfilmclub, lbfcc-adminpicks, r-letterboxd",2024-07-08
+2024-07-10,What Do We See When We Look at the Sky?,2021,https://boxd.it/6QbWtD,4,,"¿Cómo te explico que una película de Georgia, a catorce mil kilómetros de distancia, es más argentina que el propio cine nacional? 
+
+<blockquote>""Everything happened the way it had to happen.""<blockquote>
+
+Aguante <i>Messi<i> y ser campeón del mundo. Gracias <i>What Do We See When We Look at the Sky?<i> por predecirlo un año antes.",,2024-07-09
+2024-07-11,Cris Miró (She/Her/Hers),2024,https://boxd.it/6QAZ6n,4.5,,"<i>Cris Miró<i> caminó para que muchas chicas puedan correr. Ícono. Esta miniserie, y <i>Mina Serrano<i>, llegaron para hacerle justicia.",,2024-07-10
+2024-07-12,Stars at Noon,2022,https://boxd.it/6R0Ght,4,,"Me encantaría poder comprender en su totalidad el contexto sociopolítico nicaragüense que refleja <i>Stars at Noon<i> pero, aún no consiguiéndolo, celebro que se muestren en pantalla distintas realidades, culturas tan ajenas, y a la vez tan cercanas, a las nuestras.",,2024-07-11
+2024-07-13,Yummy,2019,https://boxd.it/6RoT9F,2.5,,"No les voy a mentir, sólo vi esta película porque aparece de la nada un micro con supuestos <a href=""https://www.youtube.com/watch?v=MCxRGRWA_sc"">hinchas de River Plate</a> en Europa del Este. Totalmente random.",,2024-07-12
+2024-07-14,Godspeed,2022,https://boxd.it/6RSpjF,3,,"<i>Engin Akyürek<i> brilla como siempre, pasando de una emoción a otra en cuestión de segundos, trayendo a mi mente al amado <i>Kerim<i> de <i>Fatmagül'ün Suçu Ne?<i>. El gran problema de esta historia es que el giro argumental, ese final shockeante que tanto esperás, se ve venir desde el principio. Y ahí ya perdió toda la magia.",,2024-07-13
+2024-07-15,Dark Buildings (A Crack in the Wall),2018,https://boxd.it/6SnVDf,3.5,,"El misterio se mantiene hasta el final gracias a las pistas en cuentagotas, porque no se trata sólo de un thriller criminal sino de una crítica social a la mediana edad, de cómo es vista por uno mismo y por los demás. 
+
+Pero, peeeeero, que manía de siempre meter tramas ""románticas"" que te hacen perder el foco principal. El resto, correcto, intrigante.",,2024-07-14
+2024-07-15,Black Mirror: Arkangel,2017,https://boxd.it/6Sqbtp,4.5,Yes,"Siento que <i>Arkangel<i> estará mejor ubicado en mi ranking que en el de la mayoría y es porque, en mi opinión, tiene el mejor desarrollo de historia de la serie, como si se tratara de una película independiente o de corta duración. Sólo me hubiese gustado que se ahondara más en las consecuencias de las imágenes violentas o pornográficas vistas por niños/adolescentes. Por todo lo demás, completamente atrapante y empática.
+
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-06-02
+2024-07-16,Black Mirror: Crocodile,2017,https://boxd.it/6SRHdR,4,Yes,"El misterio de por qué mi mente bloqueó por completo este episodio pero, en el mismísimo instante que apareció la cobaya, como si se tratara del aroma de la cerveza <i>Castle Port<i>, mis recuerdos se activaron. Distinto a todos los demás. Tan sombrío como angustiante.
+
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-06-06
+2024-07-16,I Choose to Believe,2023,https://boxd.it/6SSOLD,4,,"Cuatro estrellas, una por cada final ganada por <i>la Scaloneta<i>: Copa América 2021 ★ en el Maracaná, Finalissima 2022 ★ en Wembley, CAMPEONES DEL MUNDO en Qatar 2022 ★ y, ahora, nuevamente, Copa América 2024 ★ en Miami. Elijo seguir creyendo. Somos Argentina.",,2024-07-15
+2024-07-17,Lady Bird,2017,https://boxd.it/6TiJgd,5,,"<blockquote>- “Of course I love you.”
+- “But do you like me?”<blockquote>
+
+De todas las películas siempre trato de quedarme con alguna frase o escena que me llegue al corazón, que me represente, que me resuene en la cabeza por días, pero jamás tantas como con <i>Lady Bird<i>. Por momentos, sentía que estaba viendo en pantalla la relación con mi mamá, ese vínculo tan único, particular y complicado de transmitir de una forma realista de ambas partes. Ese es el mayor acierto de <i>Greta Gerwig<i> y, si cae en algún lugar común, está bien, porque es una historia universal de amor y cuidado.
+
+¿Mi parte favorita? Cuando van a elegir el vestido para Acción de Gracias y pasan de discutir por una tontería a alegrarse juntas en un segundo. Mi madre y yo en cualquier local de ropa. Y nos amamos. Y nos peleamos. Y nos cuidamos la una a la otra.
+
+Recomendación de <a href=""https://boxd.it/21par"">@victoriacara</a> para <a href=""https://boxd.it/wVuV0"">r/Letterboxd Film Raffle #99</a>.","r-letterboxd, lbfilmraffle",2024-07-16
+2024-07-18,The Disappearance of Eleanor Rigby: Them,2014,https://boxd.it/6TMRIz,4,,"<a href=""https://boxd.it/4Vu1Or"">The Disappearance of Eleanor Rigby: Him ✔️</a>
+<a href=""https://boxd.it/4YReqv"">The Disappearance of Eleanor Rigby: Her ✔️</a>
+<a href=""https://boxd.it/6TMRIz"">The Disappearance of Eleanor Rigby: Them ✔️</a>
+
+<blockquote>”Tragedy is a foreign country. We don't know how to talk to the natives.”<blockquote>
+
+<i>Them<i>, o simplemente <i>The Disappearance of Eleanor Rigby<i>, no aporta nada que ya no hayamos visto en <i>Him<i> y <i>Her<i>, pero aquí tenemos la historia completa. Los distintos tipos de duelos, los que quieren hablar y los que necesitan callar. El seguir adelante por inercia o con un propósito. Los que viven después de la muerte. La imprevisibilidad de lo que va a venir.",,2024-07-17
+2024-07-19,The Bikeriders,2023,https://boxd.it/6UfKLJ,4.5,,"<blockquote>""You can give everything you got to a thing. And it's still just gonna do what it's gonna do.""<blockquote>
+
+Podés no entender absolutamente nada de motos ni clubes que, igualmente, <i>The Bikeriders<i> con su acento, diálogos, fotografía y banda sonora repleta de clásicos top te atrapa por completo... si antes no te atrapa el fuego que emana <i>Austin Butler<i> 🔥 desde la primera mirada.",,2024-07-18
+2024-07-20,Error 404,2016,https://boxd.it/6UBz15,4,Yes,"<blockquote>”en que anda arnaldo andré”<blockquote>
+
+El cortometraje que más veces vi en <i>CINE.AR<i>. Ideal para el día de la caída mundial de <i>Microsoft<i>.",,2024-07-19
+2024-07-21,I'm Gilda,2016,https://boxd.it/6V3GLZ,4,,"<blockquote>”No pienses que voy a dejarte
+No es mi despedida
+Una pausa en nuestra vida
+Un silencio entre tú y yo.”<blockquote>
+
+<i>Gilda, no me arrepiento de este amor<i> es la mejor película biográfica musical argentina, no sólo por el cariño y respeto con que se cuenta la vida de una de las máximas exponentes de la cumbia tropical, sino porque la hermosa voz de <i>Natalia Oreiro<i> hace que las canciones reversionadas suenen a nuevos hitazos, como si uno los escuchara y se enamorara de ellos por primera vez.",,2024-07-20
+2024-07-22,10 Days Without Mom,2017,https://boxd.it/6Vz9ZX,3,,Siento que si a <i>Peretti<i> le dejaran a todos esos pibitos le pasarían las mismas cosas que a su personaje.,,2024-07-21
+2024-07-23,Utøya: July 22,2018,https://boxd.it/6W4937,4.5,,"El viernes 22 de julio de 2011, Noruega sufrió dos ataques terroristas, el segundo de ellos en un campamento de verano de la liga juvenil del partido laborista en la isla de Utøya. El director, <i>Erik Poppe<i>, nos traslada a esta masacre con un increíble y crudo plano secuencia, de casi hora y media, donde seguimos a <i>Kaja<i> en su desesperación, desconcierto y angustia. Conocemos a sus amigos, sufrimos a su lado, anhelamos que sus sueños no mueran ahí y puedan ser alcanzados. Devastadora. No existía otra forma mejor de filmar <i>Utøya 22. juli<i>.",,2024-07-22
+2024-07-24,Suspiria,1977,https://boxd.it/6Wuuxf,3.5,,"<blockquote>""Bad luck isn't brought by broken mirrors, but by broken minds.""<blockquote>
+
+A la mayoría de los directores les llevaría décadas conseguir los asombrosos planos y la perfecta utilización de la psicología del color que logra <i>Dario Argento<i>, allá por 1977. Es en esos aspectos técnicos que <i>Suspiria<i> brilla y queda en la memoria de todos los espectadores como una película de culto en el género de terror, pero en mi no funcionó ni su desenlace sobrenatural ni la abrumadora música instrumental constante. Igualmente, eso no impide que la recomiende: es un clásico con todas las letras, un must-see.
+
+<a href=""https://boxd.it/x5MUu"">r/Letterboxd Film Club Challenge 114 - Italian Horror</a>","r-letterboxd, lbfilmclub, lbfcc-italianhorror",2024-07-23
+2024-07-25,Black Mirror: Hang the DJ,2017,https://boxd.it/6WXYJD,5,Yes,"<blockquote>”Hmm. Option paralysis. So many choices, you end up not knowing which one you want.”<blockquote>
+
+Siempre tuve muy en claro que <a href=""https://boxd.it/6FcmOX""><i>San Junipero<i></a> y <i>Hang the DJ<i> eran mi top uno y dos, respectivamente, y que después, lejos, venían todos los demás. Pero luego de este rewatch, declaro un empate técnico.
+
+La química innata entre Amy y Frank te enamora desde su primera mirada, te hace sentir que vos misma encontraste a tu match ideal. Porque lo que debería lograr la tecnología, lo siguen consiguiendo los sentimientos humanos. Mi romcom favorita sin ser una romcom, sin ser siquiera una película.
+
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-06-11
+2024-07-26,Animal,2023,https://boxd.it/6XnT6j,4,,"<blockquote>”I can boogie, boogie woogie all night long.”<blockquote>
+
+Gracias a <i>Animal<i> descubrí que tengo el don de reconocer <i>Yes Sir, I Can Boogie<i> desde el primer acorde.
+
+¿La película? Una maravilla griega, un espiral de emociones encapsuladas en sonrisas falsas. Las heridas que no cierran, aunque lo intentemos con todas nuestras fuerzas. Bailar, bailar, bailar, bailar. Y no olvidar respirar.",,2024-07-25
+2024-07-26,Trunk,2008,https://boxd.it/6XrJXl,4.5,Yes,"<i>Trunk<i> fue el primer cortometraje que vi en mi adolescencia, por el ya difunto <i>I.Sat<i>, y le guardo un cariño y melancolía especial por eso. En aquel momento, me volaba la cabeza cómo en veinte minutos se podía desarrollar una historia convincente, que atrape y que, además, entregue no uno sino varios giros de guión. Hoy lo volví a ver y, aún sabiendo su desenlace, lo disfruté como ese día en la tele cuadrada de 20 pulgadas.",,2024-07-24
+2024-07-28,Youth in Revolt,2009,https://boxd.it/6YjIVr,3,Yes,"🥇 Carlotta
+🥈 François Dillinger
+🥉 Nick Twisp",,2024-07-27
+2024-07-29,Hi Stranger,2016,https://boxd.it/6YOsVH,3.5,Yes,"<blockquote>”I see you trying to do so many things at once. Worrying about a decision you made. Or worried that you said the wrong thing to someone. You're so hard on yourself. But you're wonderful. And worthy of being loved. You really are. You just have to let yourself believe it.”<blockquote>
+
+Recuerdo random desbloqueado. ✔️",,2024-07-28
+2024-07-30,Black Mirror: Metalhead,2017,https://boxd.it/6Zhc2T,3,Yes,"Minimalista. No sólo por el blanco y negro, sino por la ausencia de trasfondo. Diferente a todo lo visto anteriormente en <i>Black Mirror<i>, y a todo lo que estaba por venir. Pero lo único que permanece en mi mente es que el perro robot evolucionaba más rápido que un <i>Pokémon<i>.
+
+<a href=""https://boxd.it/vBHFU""><i>Black Mirror<i> Episodes Ranked.</a>",,2024-06-19
+2024-07-31,Elite Short Stories: Guzmán Caye Rebe,2021,https://boxd.it/6ZHZ5z,4,Yes,"Recientemente, la serie española <i>Élite<i> nos abandonó para siempre luego de ocho temporadas, varios crímenes y sexo innecesario. Pero en mi interior, murió mucho antes, con el final de su maravillosa season 3. Como puente entre ese desenlace y su nuevo comienzo, se creó <i>Élite: historias breves<i>, miniepisodios que en algunos casos servían de conclusión y en otros de complemento.
+
+La primera tanda nos entrega cuatro emociones bien diferenciadas: la diversión de <i>Guzmán Caye Rebe<i>, el amor de <i>Nadia Guzmán<i>, la tristeza de <i>Omar Ander Alexis<i>, y la pasión de <i>Carla Samuel<i>.
+
+<i>Guzmán Caye Rebe<i> es el trío de amigos que, hasta ese momento, no sabíamos que necesitábamos. Tres desarrollos de personaje que, aún luchando contra los fantasmas de sus pasados, se deben unir contra un inesperado y cómico enemigo. Aquí nace la hermosa relación entre <i>Cayetana<i> y <i>Rebeka<i>, que será de lo poco rescatable en los años venideros.
+
+<a href=""https://boxd.it/xvzYq""><i>Élite: historias breves<i> Ranked.</a>",,2024-07-29
+2024-08-01,Elite Short Stories: Nadia Guzmán,2021,https://boxd.it/706Q3T,3.5,Yes,"Recientemente, la serie española <i>Élite<i> nos abandonó para siempre luego de ocho temporadas, varios crímenes y sexo innecesario. Pero en mi interior, murió mucho antes, con el final de su maravillosa season 3. Como puente entre ese desenlace y su nuevo comienzo, se creó <i>Élite: historias breves<i>, miniepisodios que en algunos casos servían de conclusión y en otros de complemento.
+
+La primera tanda nos entrega cuatro emociones bien diferenciadas: la diversión de <i>Guzmán Caye Rebe<i>, el amor de <i>Nadia Guzmán<i>, la tristeza de <i>Omar Ander Alexis<i>, y la pasión de <i>Carla Samuel<i>.
+
+En <i>Nadia Guzmán<i> tenemos más idas y venidas de la, sorprendentemente, pareja menos red flag de todas. Y eso que hubo muchas. Ellos sí se merecían ser felices, ser el verdadero endgame de <i>Élite<i>.
+
+<a href=""https://boxd.it/xvzYq""><i>Élite: historias breves<i> Ranked.</a>",,2024-07-30
+2024-08-01,Jesus of Suburbia,2005,https://boxd.it/707z6N,5,Yes,"<blockquote>“And there's nothin' wrong with me. This is how I'm supposed to be.”<blockquote>
+
+Toda la tarde viendo en <i>MTV<i> los videoclips de <i>Green Day<i>, <i>Blink-182<i>, <i>The Offspring<i>, etc. ¡Qué buena adolescencia, lpm!",,2024-07-31

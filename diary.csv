@@ -7,7 +7,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-09-07,2:37,2006,https://boxd.it/4OiNvP,4,Yes,,2023-09-06
 2023-09-08,4x4,2019,https://boxd.it/4OyUnZ,2.5,,,2023-09-07
 2023-09-09,Truman,2015,https://boxd.it/4ONxFr,4,Yes,,2023-09-08
-2023-09-10,No Hard Feelings,2023,https://boxd.it/4P7hnr,4,,,2023-09-09
+2023-09-10,No Hard Feelings,2023,https://boxd.it/4P7hnr,4.5,,,2023-09-09
 2023-09-11,7 Boxes,2012,https://boxd.it/4Pt3zR,4.5,,,2023-09-10
 2023-09-12,Remember Me,2010,https://boxd.it/4POu73,3.5,,,2023-09-11
 2023-09-13,Miracle in Cell No. 7,2019,https://boxd.it/4Q48gJ,4,,,2023-09-12
@@ -225,7 +225,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-04-12,Palm Springs,2020,https://boxd.it/6g0iKt,5,Yes,,2024-04-11
 2024-04-14,The Greatest Hits,2024,https://boxd.it/6gN3R3,5,,,2024-04-12
 2024-04-15,The Walking Dead: The Return,2024,https://boxd.it/6hbtZb,4,,,2024-04-13
-2024-04-15,Under the Silver Lake,2018,https://boxd.it/6hcicp,4,,lbfilmraffle,2024-04-14
+2024-04-15,Under the Silver Lake,2018,https://boxd.it/6hcicp,4,,"lbfilmraffle, r-letterboxd",2024-04-14
 2024-04-16,The Official Story,1985,https://boxd.it/6hEuaB,5,,,2024-04-15
 2024-04-17,"Love, Divided",2024,https://boxd.it/6i1ydZ,3.5,,,2024-04-16
 2024-04-18,Butcher Boys,2012,https://boxd.it/6in9GV,2,,,2024-04-17
@@ -233,17 +233,17 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-04-21,Cam,2018,https://boxd.it/6jq3W9,4,,,2024-04-19
 2024-04-21,Dirty John: The Dirty Truth,2019,https://boxd.it/6ju4qh,3.5,,,2024-04-20
 2024-04-22,The Mole Agent,2020,https://boxd.it/6jRy0p,4.5,,,2024-04-21
-2024-04-23,Bacurau,2019,https://boxd.it/6kk5tP,5,,lbfilmraffle,2024-04-22
+2024-04-23,Bacurau,2019,https://boxd.it/6kk5tP,5,,"lbfilmraffle, r-letterboxd",2024-04-22
 2024-04-24,Ferris Bueller's Day Off,1986,https://boxd.it/6kI13B,5,Yes,,2024-04-23
 2024-04-25,Stockholm,2013,https://boxd.it/6l46Wl,4.5,,,2024-04-24
 2024-04-26,Monkey Man,2024,https://boxd.it/6lsN95,4.5,,,2024-04-25
 2024-04-27,The Crimes That Bind,2020,https://boxd.it/6lMm4H,4,,,2024-04-26
 2024-04-28,Drive-Away Dolls,2024,https://boxd.it/6mcwiV,2.5,,,2024-04-27
-2024-04-29,Modern Times,1936,https://boxd.it/6mFCTL,5,,lbfilmclub,2024-04-28
+2024-04-29,Modern Times,1936,https://boxd.it/6mFCTL,5,,"lbfilmclub, r-letterboxd, lbfcc-chaplin",2024-04-28
 2024-06-01,Black Mirror: The National Anthem,2011,https://boxd.it/6AlHwN,4,Yes,,2024-04-29
 2024-05-01,Late Night with the Devil,2023,https://boxd.it/6nEriL,4,,,2024-04-30
 2024-06-01,Black Mirror: Fifteen Million Merits,2011,https://boxd.it/6AlYIL,3,Yes,,2024-05-01
-2024-05-03,The Social Network,2010,https://boxd.it/6oDmPH,5,Yes,lbfilmraffle,2024-05-02
+2024-05-03,The Social Network,2010,https://boxd.it/6oDmPH,5,Yes,"lbfilmraffle, r-letterboxd",2024-05-02
 2024-05-04,Blue Jay,2016,https://boxd.it/6oLt4f,4.5,,,2024-05-03
 2024-05-05,The Idea of You,2024,https://boxd.it/6pmvKh,4,,,2024-05-04
 2024-05-06,Baby Reindeer,2024,https://boxd.it/6pUSzT,5,,,2024-05-05
@@ -274,13 +274,16 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-06-15,Black Mirror: Hated in the Nation,2016,https://boxd.it/6FTiLr,4.5,Yes,,2024-05-30
 2024-06-01,Challengers,2024,https://boxd.it/6AjeIB,5,,,2024-05-31
 2024-06-24,Black Mirror: USS Callister,2017,https://boxd.it/6Juwq9,4,Yes,,2024-06-01
+2024-07-15,Black Mirror: Arkangel,2017,https://boxd.it/6Sqbtp,4.5,Yes,,2024-06-02
 2024-06-04,Dennis the Menace,1993,https://boxd.it/6BIRDz,3.5,Yes,,2024-06-03
 2024-06-05,A Part of You,2024,https://boxd.it/6C7lTF,4.5,,,2024-06-04
 2024-06-06,The Courier,2024,https://boxd.it/6CpScF,4,,,2024-06-05
+2024-07-16,Black Mirror: Crocodile,2017,https://boxd.it/6SRHdR,4,Yes,,2024-06-06
 2024-06-08,Gasoline Rainbow,2023,https://boxd.it/6D8ErL,4,,,2024-06-07
 2024-06-09,The Miseducation of Cameron Post,2018,https://boxd.it/6DufX7,3,,,2024-06-08
 2024-06-10,Bonnie & Clyde,2013,https://boxd.it/6E25T3,4.5,,,2024-06-09
 2024-06-11,Conversations with a Killer: The Ted Bundy Tapes,2019,https://boxd.it/6EtJXN,4,,,2024-06-10
+2024-07-25,Black Mirror: Hang the DJ,2017,https://boxd.it/6WXYJD,5,Yes,,2024-06-11
 2024-06-13,"Extremely Wicked, Shockingly Evil and Vile",2019,https://boxd.it/6FgGdZ,3.5,,,2024-06-12
 2024-06-14,El Angel,2018,https://boxd.it/6FzKSl,4.5,Yes,,2024-06-13
 2024-06-15,Initials S.G.,2019,https://boxd.it/6FWksd,3,,,2024-06-14
@@ -288,6 +291,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-06-17,Am I OK?,2022,https://boxd.it/6GKL6D,3,,,2024-06-16
 2024-06-18,Illusions for Sale: The Rise and Fall of Generation Zoe,2024,https://boxd.it/6HaWnd,3,,,2024-06-17
 2024-06-19,The Coffee Table,2022,https://boxd.it/6HyQPj,4,,,2024-06-18
+2024-07-30,Black Mirror: Metalhead,2017,https://boxd.it/6Zhc2T,3,Yes,,2024-06-19
 2024-06-21,City of God,2002,https://boxd.it/6IhQx5,5,,,2024-06-20
 2024-06-22,Raising Voices,2024,https://boxd.it/6IFI0l,4.5,,,2024-06-21
 2024-06-23,The Mystery of Happiness,2014,https://boxd.it/6J1taz,3,,,2024-06-22
@@ -299,3 +303,33 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-06-29,Sharp Objects,2018,https://boxd.it/6LnlVT,5,,,2024-06-28
 2024-06-30,Thesis on a Homicide,2013,https://boxd.it/6LKiY7,4,,,2024-06-29
 2024-07-01,Just Like Me,2010,https://boxd.it/6MdoW5,4,Yes,,2024-06-30
+2024-07-02,Blue Jasmine,2013,https://boxd.it/6MHiNr,3,,,2024-07-01
+2024-07-03,Triangle of Sadness,2022,https://boxd.it/6N6xMX,4.5,,,2024-07-02
+2024-07-04,The Watchers,2024,https://boxd.it/6Nxtst,2.5,,,2024-07-03
+2024-07-05,Memories of Murder,2003,https://boxd.it/6NViiF,5,,"lbfilmraffle, r-letterboxd",2024-07-04
+2024-07-06,A Family Affair,2024,https://boxd.it/6OjuyX,2.5,,,2024-07-05
+2024-07-07,Toxic,2020,https://boxd.it/6OKH8x,2,,,2024-07-06
+2024-07-08,Paradise for the Damned,2013,https://boxd.it/6PdynB,1.5,,,2024-07-07
+2024-07-09,"Paris, Texas",1984,https://boxd.it/6PJEsr,5,,"lbfilmclub, lbfcc-adminpicks, r-letterboxd",2024-07-08
+2024-07-10,What Do We See When We Look at the Sky?,2021,https://boxd.it/6QbWtD,4,,,2024-07-09
+2024-07-11,Cris Miró (She/Her/Hers),2024,https://boxd.it/6QAZ6n,4.5,,,2024-07-10
+2024-07-12,Stars at Noon,2022,https://boxd.it/6R0Ght,4,,,2024-07-11
+2024-07-13,Yummy,2019,https://boxd.it/6RoT9F,2.5,,,2024-07-12
+2024-07-14,Godspeed,2022,https://boxd.it/6RSpjF,3,,,2024-07-13
+2024-07-15,Dark Buildings (A Crack in the Wall),2018,https://boxd.it/6SnVDf,3.5,,,2024-07-14
+2024-07-16,I Choose to Believe,2023,https://boxd.it/6SSOLD,4,,,2024-07-15
+2024-07-17,Lady Bird,2017,https://boxd.it/6TiJgd,5,,"r-letterboxd, lbfilmraffle",2024-07-16
+2024-07-18,The Disappearance of Eleanor Rigby: Them,2014,https://boxd.it/6TMRIz,4,,,2024-07-17
+2024-07-19,The Bikeriders,2023,https://boxd.it/6UfKLJ,4.5,,,2024-07-18
+2024-07-20,Error 404,2016,https://boxd.it/6UBz15,4,Yes,,2024-07-19
+2024-07-21,I'm Gilda,2016,https://boxd.it/6V3GLZ,4,,,2024-07-20
+2024-07-22,10 Days Without Mom,2017,https://boxd.it/6Vz9ZX,3,,,2024-07-21
+2024-07-23,Utøya: July 22,2018,https://boxd.it/6W4937,4.5,,,2024-07-22
+2024-07-24,Suspiria,1977,https://boxd.it/6Wuuxf,3.5,,"r-letterboxd, lbfilmclub, lbfcc-italianhorror",2024-07-23
+2024-07-26,Trunk,2008,https://boxd.it/6XrJXl,4.5,Yes,,2024-07-24
+2024-07-26,Animal,2023,https://boxd.it/6XnT6j,4,,,2024-07-25
+2024-07-28,Youth in Revolt,2009,https://boxd.it/6YjIVr,3,Yes,,2024-07-27
+2024-07-29,Hi Stranger,2016,https://boxd.it/6YOsVH,3.5,Yes,,2024-07-28
+2024-07-31,Elite Short Stories: Guzmán Caye Rebe,2021,https://boxd.it/6ZHZ5z,4,Yes,,2024-07-29
+2024-08-01,Elite Short Stories: Nadia Guzmán,2021,https://boxd.it/706Q3T,3.5,Yes,,2024-07-30
+2024-08-01,Jesus of Suburbia,2005,https://boxd.it/707z6N,5,Yes,,2024-07-31
