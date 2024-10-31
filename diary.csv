@@ -17,7 +17,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-09-17,Love at First Sight,2023,https://boxd.it/4R5irD,5,,,2023-09-16
 2023-09-18,Infinity Pool,2023,https://boxd.it/4RoSiF,3.5,,,2023-09-17
 2023-09-19,12 Years a Slave,2013,https://boxd.it/4RNhTz,2,,,2023-09-18
-2023-09-20,18 Presents,2020,https://boxd.it/4S3bL7,4.5,,,2023-09-19
+2023-09-20,18 Presents,2020,https://boxd.it/4S3bL7,5,,,2023-09-19
 2023-09-21,When You Finish Saving the World,2022,https://boxd.it/4SfMFp,2.5,,,2023-09-20
 2023-09-22,22 vs. Earth,2021,https://boxd.it/4SuOFr,3,,,2023-09-21
 2023-09-23,Soul,2020,https://boxd.it/4SLDIN,4.5,,,2023-09-22
@@ -371,7 +371,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-09-06,Incoming,2024,https://boxd.it/7gqYVD,4,,,2024-09-05
 2024-09-07,Kiss Me First,2018,https://boxd.it/7gNnWl,3.5,,,2024-09-06
 2024-09-08,Wake Me Up When September Ends,2005,https://boxd.it/7hgthr,5,Yes,,2024-09-07
-2024-09-09,Life in Holland,1911,https://boxd.it/7hNCW5,4.5,,,2024-09-08
+2024-09-09,Life in Holland,1911,https://boxd.it/7hNCW5,4,,,2024-09-08
 2024-09-10,"De Tripas, Corazón",1996,https://boxd.it/7iinkn,3.5,Yes,,2024-09-09
 2024-09-11,Longlegs,2024,https://boxd.it/7iKfhV,4,,,2024-09-10
 2024-09-12,"Disco, Ibiza, Locomía",2024,https://boxd.it/7j7XT1,5,,,2024-09-11
@@ -385,12 +385,43 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-09-20,Twister,1996,https://boxd.it/7mBdIj,3,Yes,,2024-09-19
 2024-09-21,Twisters,2024,https://boxd.it/7mZn55,4.5,,,2024-09-20
 2024-09-22,A Romance of the Rail,1903,https://boxd.it/7nsoL5,3.5,Yes,,2024-09-21
-2024-09-23,The Train Wreckers,1905,https://boxd.it/7nVxgD,4.5,,,2024-09-22
+2024-09-23,The Train Wreckers,1905,https://boxd.it/7nVxgD,4,,,2024-09-22
 2024-09-24,Lo de aquella noche,2020,https://boxd.it/7osmrh,5,Yes,,2024-09-23
 2024-09-25,Look Both Ways,2022,https://boxd.it/7oQGJ9,5,,,2024-09-24
-2024-09-26,Petite maman,2021,https://boxd.it/7pekWX,4,,,2024-09-25
+2024-09-26,Petite Maman,2021,https://boxd.it/7pekWX,4,,,2024-09-25
 2024-09-27,Hollywood,2020,https://boxd.it/7pBESd,4,,,2024-09-26
 2024-09-28,Me & You,2015,https://boxd.it/7q0okf,4.5,,,2024-09-27
 2024-09-29,A Romance of the Rails,1912,https://boxd.it/7qtWpV,3,,,2024-09-28
 2024-09-30,Paperman,2012,https://boxd.it/7qYicT,5,Yes,,2024-09-29
 2024-10-01,Childish Dreams,1910,https://boxd.it/7rtwLl,3,,,2024-09-30
+2024-10-02,Hit Man,2023,https://boxd.it/7rUlDp,4.5,,"r-letterboxd, lbfilmraffle",2024-10-01
+2024-10-03,Killer Heat,2024,https://boxd.it/7sm3KN,3,,,2024-10-02
+2024-10-04,Nick and Norah's Infinite Playlist,2008,https://boxd.it/7sLsHf,2.5,Yes,,2024-10-03
+2024-10-05,Blink Twice,2024,https://boxd.it/7tbXpN,4,,,2024-10-04
+2024-10-06,Fishing for Goldfish,1895,https://boxd.it/7tI69j,2.5,,,2024-10-05
+2024-10-07,Black Mirror: Black Museum,2017,https://boxd.it/7ujOi9,4.5,Yes,,2024-10-06
+2024-10-08,Salem's Lot,2024,https://boxd.it/7uRBrZ,2.5,,,2024-10-07
+2024-10-09,Strange Darling,2023,https://boxd.it/7vm7Z5,5,,,2024-10-08
+2024-10-10,The Platform,2019,https://boxd.it/7vMtVL,4.5,Yes,,2024-10-09
+2024-10-12,The Platform 2,2024,https://boxd.it/7wCjxN,3,,,2024-10-10
+2024-10-14,A Trip to the Moon,1902,https://boxd.it/7xKAKp,4,,,2024-10-11
+2024-10-13,Host,2020,https://boxd.it/7x7nhB,4.5,Yes,,2024-10-12
+2024-10-14,Save Ralph,2021,https://boxd.it/7xIjDn,4,,,2024-10-13
+2024-10-15,The Haunted Castle,1896,https://boxd.it/7yji0j,3,,,2024-10-14
+2024-10-16,A True Gentleman,2024,https://boxd.it/7yO9dZ,2.5,,,2024-10-15
+2024-10-17,Reality+,2014,https://boxd.it/7zhI7F,4.5,,,2024-10-16
+2024-10-18,Revenge,2017,https://boxd.it/7zIsHB,4,,,2024-10-17
+2024-10-19,Whiplash,2014,https://boxd.it/7A9ImX,5,Yes,"lbfcc-filmraffle, r-letterboxd, lbfilmclub",2024-10-18
+2024-10-20,Take me Home,2012,https://boxd.it/7AIus3,4,,,2024-10-19
+2024-10-21,Monster,2018,https://boxd.it/7BjALf,3,,,2024-10-20
+2024-10-22,Woman of the Hour,2023,https://boxd.it/7BToVf,4,,,2024-10-21
+2024-10-23,Love at Second Sight,2019,https://boxd.it/7CqfqN,4,,,2024-10-22
+2024-10-24,Her,2013,https://boxd.it/7CRL0r,5,Yes,"r-letterboxd, lbfilmraffle",2024-10-23
+2024-10-28,Electrocuting an Elephant,1903,https://boxd.it/7EUiZ5,0.5,,,2024-10-24
+2024-10-26,It Ends with Us,2024,https://boxd.it/7DLmT9,4,,,2024-10-25
+2024-10-27,Whiplash,2013,https://boxd.it/7EilXb,4,,,2024-10-26
+2024-10-28,The Doll's Revenge,1907,https://boxd.it/7ESBot,3,,,2024-10-27
+2024-10-29,22 July,2018,https://boxd.it/7FuUuB,4.5,,,2024-10-28
+2024-10-30,Old,2021,https://boxd.it/7FYEKj,4,,,2024-10-29
+2024-10-31,Inventing the Abbotts,1997,https://boxd.it/7GsHwJ,3.5,,,2024-10-30
+2024-11-01,A quien dices amar,2019,https://boxd.it/7GXJjp,3.5,Yes,,2024-10-31
