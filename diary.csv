@@ -33,7 +33,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-10-03,The Accused,2018,https://boxd.it/4VSe8h,3.5,Yes,,2023-10-02
 2023-10-04,A Mother's Son,2012,https://boxd.it/4WcPOp,4,,,2023-10-03
 2023-10-05,The Heist of the Century,2020,https://boxd.it/4WvtSH,4,Yes,,2023-10-04
-2023-10-06,(500) Days of Summer,2009,https://boxd.it/4WOlsJ,4.5,Yes,,2023-10-05
 2023-10-07,Amour,2012,https://boxd.it/4X7vK7,0.5,,,2023-10-06
 2023-10-08,An Unexpected Love,2018,https://boxd.it/4XqXor,1,,,2023-10-07
 2023-10-09,The Weasel's Tale,2019,https://boxd.it/4XLu2D,4,,,2023-10-08
@@ -104,7 +103,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-12-13,Daisy Jones & the Six,2023,https://boxd.it/5jzryZ,5,Yes,,2023-12-12
 2023-12-14,Full Circle,2023,https://boxd.it/5jTuPz,3.5,,,2023-12-13
 2023-12-15,The Boss: Anatomy of a Crime,2014,https://boxd.it/5kdSRf,4.5,,,2023-12-14
-2023-12-16,127 Hours,2010,https://boxd.it/5kul1z,4,,,2023-12-15
+2024-11-18,A Nightmare,1896,https://boxd.it/7PDVGB,2,,,2023-12-15
 2023-12-17,Fellow Travelers,2023,https://boxd.it/5kQIJ9,4.5,Yes,,2023-12-16
 2023-12-18,Love After Music,2023,https://boxd.it/5lfIN1,4.5,,,2023-12-17
 2023-12-19,The Man Next Door,2009,https://boxd.it/5lIQqn,1,,,2023-12-18
@@ -192,7 +191,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-03-10,Adult World,2013,https://boxd.it/60JplL,4,Yes,,2024-03-09
 2024-03-12,The Red Suitcase,2022,https://boxd.it/61SAHv,4,Yes,,2024-03-10
 2024-03-13,Betibú,2014,https://boxd.it/62peOF,2.5,,,2024-03-11
-2024-03-13,Beautiful Boy,2018,https://boxd.it/62ljKP,5,Yes,,2024-03-12
 2024-03-14,Room for Rent,2019,https://boxd.it/62K3Yh,3.5,,,2024-03-13
 2024-03-15,WAR IS OVER! Inspired by the Music of John & Yoko,2023,https://boxd.it/63azsz,4,,,2024-03-14
 2024-03-16,Alpha Dog,2006,https://boxd.it/63z30X,5,Yes,,2024-03-15
@@ -209,7 +207,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-03-28,Never Let Me Go,2010,https://boxd.it/69c9l1,4,Yes,,2024-03-26
 2024-03-29,She's All That,1999,https://boxd.it/69Gq5T,2.5,,,2024-03-27
 2024-03-30,He's All That,2021,https://boxd.it/6a5Orp,3,,,2024-03-28
-2024-03-31,Lords of Dogtown,2005,https://boxd.it/6aAB37,4.5,,,2024-03-29
+2024-03-31,Lords of Dogtown,2005,https://boxd.it/6aAB37,5,,,2024-03-29
 2024-04-01,Cenizas pasajeras,2024,https://boxd.it/6b8Woj,3.5,,,2024-03-30
 2024-04-01,The Last Brunch,2024,https://boxd.it/6b9laL,2,Yes,,2024-03-31
 2024-04-02,Rest in Peace,2024,https://boxd.it/6bJBkz,3.5,,,2024-04-01
@@ -425,3 +423,33 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-10-30,Old,2021,https://boxd.it/7FYEKj,4,,,2024-10-29
 2024-10-31,Inventing the Abbotts,1997,https://boxd.it/7GsHwJ,3.5,,,2024-10-30
 2024-11-01,A quien dices amar,2019,https://boxd.it/7GXJjp,3.5,Yes,,2024-10-31
+2024-11-02,Letters to Juliet,2010,https://boxd.it/7HAgEr,4.5,,,2024-11-01
+2024-11-03,The Infernal Cauldron,1903,https://boxd.it/7I5XQn,3.5,,,2024-11-02
+2024-11-04,Freelance,2024,https://boxd.it/7IK8Ch,3.5,,,2024-11-03
+2024-11-05,Eat My Shit,2015,https://boxd.it/7JjvKj,0.5,,,2024-11-04
+2024-11-06,Belfast,2021,https://boxd.it/7JMV8X,4.5,,,2024-11-05
+2024-11-07,9 Kisses,2014,https://boxd.it/7KbBZ3,3,,,2024-11-06
+2024-11-08,Death Sentence,2007,https://boxd.it/7KAJWr,3,Yes,,2024-11-07
+2024-11-09,The Substance,2024,https://boxd.it/7L1LVp,4.5,,,2024-11-08
+2024-11-10,The Cavalier's Dream,1898,https://boxd.it/7LxcC7,2.5,,,2024-11-09
+2024-11-11,Faust: Appearance of Mephistopheles,1897,https://boxd.it/7M83y5,2,,,2024-11-10
+2024-11-12,The '?' Motorist,1906,https://boxd.it/7MN4Qh,3,,,2024-11-11
+2024-11-13,Shaun of the Dead,2004,https://boxd.it/7NbLjN,4.5,,"lbfcc-horrorcomedy, r-letterboxd, lbfilmclub",2024-11-12
+2024-11-14,Time Cut,2024,https://boxd.it/7NFj6V,3.5,,,2024-11-13
+2024-11-15,127 Hours,2010,https://boxd.it/7O5Xtn,4,,,2024-11-14
+2024-11-16,Disco Inferno,2023,https://boxd.it/7OxKhT,3,,,2024-11-15
+2024-11-17,Verano ’78,2024,https://boxd.it/7P2Nlh,5,,,2024-11-16
+2024-11-18,You,2013,https://boxd.it/7PGQxZ,4.5,,,2024-11-17
+2024-11-19,El vecino ruidoso,2016,https://boxd.it/7QfDsd,2.5,,,2024-11-18
+2024-11-20,American Psycho,2000,https://boxd.it/7QHQ3V,4,Yes,,2024-11-19
+2024-11-21,Bridgend,2015,https://boxd.it/7Ra65z,3.5,,,2024-11-20
+2024-11-22,American Psycho II: All American Girl,2002,https://boxd.it/7RCfer,1.5,,,2024-11-21
+2024-11-23,(500) Days of Summer,2009,https://boxd.it/7S2ZBN,5,Yes,,2024-11-22
+2024-11-24,Pendulum,1981,https://boxd.it/7Sxu2f,5,,,2024-11-23
+2024-11-25,La Silla Vacía,2019,https://boxd.it/7Tbpov,3.5,,,2024-11-24
+2024-11-26,Double Ticks,2011,https://boxd.it/7TKVZD,3,,,2024-11-25
+2024-11-27,We Live in Time,2024,https://boxd.it/7UfE2V,5,,,2024-11-26
+2024-11-28,Calladita,2023,https://boxd.it/7UHOrx,3,,,2024-11-27
+2024-11-29,An Almost Christmas Story,2024,https://boxd.it/7V9oMZ,4.5,Yes,,2024-11-28
+2024-11-30,Beautiful Boy,2018,https://boxd.it/7VDycx,5,Yes,,2024-11-29
+2024-12-01,Gift,2015,https://boxd.it/7WaPmP,3.5,,,2024-11-30
