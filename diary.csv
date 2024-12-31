@@ -33,6 +33,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-10-03,The Accused,2018,https://boxd.it/4VSe8h,3.5,Yes,,2023-10-02
 2023-10-04,A Mother's Son,2012,https://boxd.it/4WcPOp,4,,,2023-10-03
 2023-10-05,The Heist of the Century,2020,https://boxd.it/4WvtSH,4,Yes,,2023-10-04
+2024-12-30,At the Photographer's,1900,https://boxd.it/8dpPuH,3,,,2023-10-05
 2023-10-07,Amour,2012,https://boxd.it/4X7vK7,0.5,,,2023-10-06
 2023-10-08,An Unexpected Love,2018,https://boxd.it/4XqXor,1,,,2023-10-07
 2023-10-09,The Weasel's Tale,2019,https://boxd.it/4XLu2D,4,,,2023-10-08
@@ -191,6 +192,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-03-10,Adult World,2013,https://boxd.it/60JplL,4,Yes,,2024-03-09
 2024-03-12,The Red Suitcase,2022,https://boxd.it/61SAHv,4,Yes,,2024-03-10
 2024-03-13,Betibú,2014,https://boxd.it/62peOF,2.5,,,2024-03-11
+2025-01-01,At the Hypnotist's,1898,https://boxd.it/8frb3X,3,,,2024-03-12
 2024-03-14,Room for Rent,2019,https://boxd.it/62K3Yh,3.5,,,2024-03-13
 2024-03-15,WAR IS OVER! Inspired by the Music of John & Yoko,2023,https://boxd.it/63azsz,4,,,2024-03-14
 2024-03-16,Alpha Dog,2006,https://boxd.it/63z30X,5,Yes,,2024-03-15
@@ -355,7 +357,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-08-23,Fly Me to the Moon,2024,https://boxd.it/79TEvb,4,,,2024-08-22
 2024-08-24,Sallie Gardner at a Gallop,1878,https://boxd.it/7aiWGh,4,,,2024-08-23
 2024-08-25,The Kiss,1882,https://boxd.it/7aNmaB,3,,,2024-08-24
-2024-08-26,Woman Jumping from Rock to Rock,,https://boxd.it/7bk9Px,3,,,2024-08-25
 2024-08-27,Thesis,1996,https://boxd.it/7bSPIV,4.5,Yes,,2024-08-26
 2024-08-28,Just Love,2018,https://boxd.it/7ckVWZ,2.5,,,2024-08-27
 2024-08-29,Goyo,2024,https://boxd.it/7cM7GD,4,,,2024-08-28
@@ -416,7 +417,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-10-23,Love at Second Sight,2019,https://boxd.it/7CqfqN,4,,,2024-10-22
 2024-10-24,Her,2013,https://boxd.it/7CRL0r,5,Yes,"r-letterboxd, lbfilmraffle",2024-10-23
 2024-10-28,Electrocuting an Elephant,1903,https://boxd.it/7EUiZ5,0.5,,,2024-10-24
-2024-10-26,It Ends with Us,2024,https://boxd.it/7DLmT9,4,,,2024-10-25
+2024-10-26,It Ends With Us,2024,https://boxd.it/7DLmT9,4,,,2024-10-25
 2024-10-27,Whiplash,2013,https://boxd.it/7EilXb,4,,,2024-10-26
 2024-10-28,The Doll's Revenge,1907,https://boxd.it/7ESBot,3,,,2024-10-27
 2024-10-29,22 July,2018,https://boxd.it/7FuUuB,4.5,,,2024-10-28
@@ -453,3 +454,33 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-11-29,An Almost Christmas Story,2024,https://boxd.it/7V9oMZ,4.5,Yes,,2024-11-28
 2024-11-30,Beautiful Boy,2018,https://boxd.it/7VDycx,5,Yes,,2024-11-29
 2024-12-01,Gift,2015,https://boxd.it/7WaPmP,3.5,,,2024-11-30
+2024-12-02,"The Good, the Bart, and the Loki",2021,https://boxd.it/7WMIMd,2,,,2024-12-01
+2024-12-03,"Maggie Simpson in ""The Longest Daycare""",2012,https://boxd.it/7XnCLR,4,,,2024-12-02
+2024-12-04,Joy,2024,https://boxd.it/7XQg9z,4.5,,,2024-12-03
+2024-12-05,Here,2024,https://boxd.it/7Yf8SL,4,,,2024-12-04
+2024-12-06,Disclaimer,2024,https://boxd.it/7YFSZ1,5,Yes,,2024-12-05
+2024-12-07,Fargo,1996,https://boxd.it/7Z6PIb,4.5,,"lbfcc-snowmovies, r-letterboxd, lbfilmclub",2024-12-06
+2024-12-08,"Maggie Simpson in ""The Force Awakens from Its Nap""",2021,https://boxd.it/7ZAILd,3,,,2024-12-07
+2024-12-09,"Maggie Simpson in ""Playdate with Destiny""",2020,https://boxd.it/80etcx,4,,,2024-12-08
+2024-12-10,Good Intentions,2018,https://boxd.it/80MgaL,4,,,2024-12-09
+2024-12-11,Let Go,2024,https://boxd.it/81gyY5,4.5,,,2024-12-10
+2024-12-12,Before Sunrise,1995,https://boxd.it/81GlVT,5,,"r-letterboxd, lbfilmraffle",2024-12-11
+2024-12-13,Ellipsis,2024,https://boxd.it/82chMd,3,,,2024-12-12
+2024-12-14,Green Room,2015,https://boxd.it/82AYjh,3,,,2024-12-13
+2024-12-15,The Social Dilemma,2020,https://boxd.it/8387xt,4,,,2024-12-14
+2024-12-16,Kitbull,2019,https://boxd.it/83JvoT,4.5,,,2024-12-15
+2024-12-17,Purl,2018,https://boxd.it/84lOIJ,3,,,2024-12-16
+2024-12-18,Juror #2,2024,https://boxd.it/84QFIH,4,,,2024-12-17
+2024-12-19,"Planes, Trains and Automobiles",1987,https://boxd.it/85twj7,5,Yes,,2024-12-18
+2024-12-20,The Outrun,2024,https://boxd.it/85ZMcv,3.5,,,2024-12-19
+2024-12-21,Senna,2024,https://boxd.it/86tAgZ,5,,,2024-12-20
+2024-12-22,Turn-of-the-Century Surgery,1900,https://boxd.it/872tal,3,,,2024-12-21
+2024-12-23,Smash and Grab,2019,https://boxd.it/87GGu9,3.5,,,2024-12-22
+2024-12-24,Float,2019,https://boxd.it/88rjs9,4,,,2024-12-23
+2024-12-26,A Charlie Brown Christmas,1965,https://boxd.it/89TgXN,4.5,,,2024-12-25
+2024-12-27,Our Little Secret,2024,https://boxd.it/8aOC5R,3,,,2024-12-26
+2024-12-28,Carry-On,2024,https://boxd.it/8bGCs5,2.5,,,2024-12-27
+2024-12-29,Look Back,2024,https://boxd.it/8czd7r,4,,,2024-12-28
+2024-12-30,Falling for Christmas,2022,https://boxd.it/8dvvJ5,3.5,,,2024-12-29
+2024-12-31,The Darkest Darkness,2023,https://boxd.it/8etjnB,4.5,,,2024-12-30
+2025-01-01,No One Will Miss Us,2024,https://boxd.it/8fsxSZ,5,,,2024-12-31
