@@ -312,7 +312,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-07-08,Paradise for the Damned,2013,https://boxd.it/6PdynB,1.5,,,2024-07-07
 2024-07-09,"Paris, Texas",1984,https://boxd.it/6PJEsr,5,,"lbfilmclub, lbfcc-adminpicks, r-letterboxd",2024-07-08
 2024-07-10,What Do We See When We Look at the Sky?,2021,https://boxd.it/6QbWtD,4,,,2024-07-09
-2024-07-11,Cris Miró (She/Her/Hers),2024,https://boxd.it/6QAZ6n,4.5,,,2024-07-10
 2024-07-12,Stars at Noon,2022,https://boxd.it/6R0Ght,4,,,2024-07-11
 2024-07-13,Yummy,2019,https://boxd.it/6RoT9F,2.5,,,2024-07-12
 2024-07-14,Godspeed,2022,https://boxd.it/6RSpjF,3,,,2024-07-13
@@ -411,13 +410,13 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-10-17,Reality+,2014,https://boxd.it/7zhI7F,4.5,,,2024-10-16
 2024-10-18,Revenge,2017,https://boxd.it/7zIsHB,4,,,2024-10-17
 2024-10-19,Whiplash,2014,https://boxd.it/7A9ImX,5,Yes,"lbfcc-filmraffle, r-letterboxd, lbfilmclub",2024-10-18
-2024-10-20,Take me Home,2012,https://boxd.it/7AIus3,4,,,2024-10-19
+2024-10-20,Take Me Home,2012,https://boxd.it/7AIus3,4,,,2024-10-19
 2024-10-21,Monster,2018,https://boxd.it/7BjALf,3,,,2024-10-20
 2024-10-22,Woman of the Hour,2023,https://boxd.it/7BToVf,4,,,2024-10-21
 2024-10-23,Love at Second Sight,2019,https://boxd.it/7CqfqN,4,,,2024-10-22
 2024-10-24,Her,2013,https://boxd.it/7CRL0r,5,Yes,"r-letterboxd, lbfilmraffle",2024-10-23
 2024-10-28,Electrocuting an Elephant,1903,https://boxd.it/7EUiZ5,0.5,,,2024-10-24
-2024-10-26,It Ends With Us,2024,https://boxd.it/7DLmT9,4,,,2024-10-25
+2024-10-26,It Ends with Us,2024,https://boxd.it/7DLmT9,4,,,2024-10-25
 2024-10-27,Whiplash,2013,https://boxd.it/7EilXb,4,,,2024-10-26
 2024-10-28,The Doll's Revenge,1907,https://boxd.it/7ESBot,3,,,2024-10-27
 2024-10-29,22 July,2018,https://boxd.it/7FuUuB,4.5,,,2024-10-28
@@ -435,7 +434,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-11-10,The Cavalier's Dream,1898,https://boxd.it/7LxcC7,2.5,,,2024-11-09
 2024-11-11,Faust: Appearance of Mephistopheles,1897,https://boxd.it/7M83y5,2,,,2024-11-10
 2024-11-12,The '?' Motorist,1906,https://boxd.it/7MN4Qh,3,,,2024-11-11
-2024-11-13,Shaun of the Dead,2004,https://boxd.it/7NbLjN,4.5,,"lbfcc-horrorcomedy, r-letterboxd, lbfilmclub",2024-11-12
+2024-11-13,Shaun of the Dead,2004,https://boxd.it/7NbLjN,4,,"lbfcc-horrorcomedy, r-letterboxd, lbfilmclub",2024-11-12
 2024-11-14,Time Cut,2024,https://boxd.it/7NFj6V,3.5,,,2024-11-13
 2024-11-15,127 Hours,2010,https://boxd.it/7O5Xtn,4,,,2024-11-14
 2024-11-16,Disco Inferno,2023,https://boxd.it/7OxKhT,3,,,2024-11-15
@@ -477,6 +476,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-12-22,Turn-of-the-Century Surgery,1900,https://boxd.it/872tal,3,,,2024-12-21
 2024-12-23,Smash and Grab,2019,https://boxd.it/87GGu9,3.5,,,2024-12-22
 2024-12-24,Float,2019,https://boxd.it/88rjs9,4,,,2024-12-23
+2025-01-07,Automated Hat-Maker and Sausage-Grinder,1900,https://boxd.it/8lxKHf,0.5,,,2024-12-24
 2024-12-26,A Charlie Brown Christmas,1965,https://boxd.it/89TgXN,4.5,,,2024-12-25
 2024-12-27,Our Little Secret,2024,https://boxd.it/8aOC5R,3,,,2024-12-26
 2024-12-28,Carry-On,2024,https://boxd.it/8bGCs5,2.5,,,2024-12-27
@@ -484,3 +484,34 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-12-30,Falling for Christmas,2022,https://boxd.it/8dvvJ5,3.5,,,2024-12-29
 2024-12-31,The Darkest Darkness,2023,https://boxd.it/8etjnB,4.5,,,2024-12-30
 2025-01-01,No One Will Miss Us,2024,https://boxd.it/8fsxSZ,5,,,2024-12-31
+2025-01-02,The Merry Gentlemen,2024,https://boxd.it/8gcSZ5,3,,,2025-01-01
+2025-01-03,Anora,2024,https://boxd.it/8hkTOn,5,,,2025-01-02
+2025-01-04,In the Mood for Love,2000,https://boxd.it/8iniVL,5,,"cc2025, criterion challenge 2025",2025-01-03
+2025-01-05,Scott Pilgrim vs. the World,2010,https://boxd.it/8jps8x,2.5,,"r-letterboxd, lbfilmclub, lbfcc-musicmovies",2025-01-04
+2025-01-06,Wind,2019,https://boxd.it/8kuuUx,4,,,2025-01-05
+2025-01-07,Upon Open Sky,2023,https://boxd.it/8lyEID,2,,,2025-01-06
+2025-01-08,Beau Travail,1999,https://boxd.it/8mrgrD,4,,"r-letterboxd, lbfilmraffle, cc2025, criterion challenge 2025",2025-01-07
+2025-01-09,Missing You,2025,https://boxd.it/8nhzTv,3.5,,,2025-01-08
+2025-01-10,Linda,2024,https://boxd.it/8oif15,3,,,2025-01-09
+2025-01-11,Panic Attack!,2009,https://boxd.it/8ptYvF,3,,,2025-01-10
+2025-01-13,The Screamers,2010,https://boxd.it/8rR4p3,3,,,2025-01-11
+2025-01-13,Before the Eruption,2021,https://boxd.it/8rGby5,3.5,,,2025-01-12
+2025-01-14,The Love Scam,2025,https://boxd.it/8sHCgj,3,,,2025-01-13
+2025-01-15,The Crime of Padre Amaro,2002,https://boxd.it/8ttN53,4,,,2025-01-14
+2025-01-16,The Words,2012,https://boxd.it/8uddy1,4.5,,,2025-01-15
+2025-01-17,My Own Private Idaho,1991,https://boxd.it/8uXO1F,3.5,,"cc2025, criterion challenge 2025, byc",2025-01-16
+2025-01-17,Welcome to Lumon,2021,https://boxd.it/8v7lSl,5,,,2025-01-17
+2025-01-19,Young Hunter,2020,https://boxd.it/8wrr7f,3.5,,,2025-01-18
+2025-01-20,Premonition Following an Evil Deed,1995,https://boxd.it/8xh2L9,3,,,2025-01-19
+2025-01-21,The Devil’s Passenger,2018,https://boxd.it/8ycYg3,2,,,2025-01-20
+2025-01-22,The Way Way Back,2013,https://boxd.it/8yYDcP,4,,"r-letterboxd, lbfilmraffle",2025-01-21
+2025-01-23,Emilia Pérez,2024,https://boxd.it/8zDtCZ,2,,,2025-01-22
+2025-01-24,Bad Actor,2023,https://boxd.it/8Ak4Lj,4.5,,,2025-01-23
+2025-01-25,The Seed of the Sacred Fig,2024,https://boxd.it/8B39sL,4.5,,,2025-01-24
+2025-01-26,Female Conscripts,1908,https://boxd.it/8BO7ln,0.5,,,2025-01-25
+2025-01-27,The Amputee,1974,https://boxd.it/8CJftD,2.5,,,2025-01-26
+2025-01-28,Abrazo Ceñido,2024,https://boxd.it/8DLrmH,4,,,2025-01-27
+2025-01-29,Kill the Jockey,2024,https://boxd.it/8EnIU3,3,,,2025-01-28
+2025-01-30,The Calendar Killer,2025,https://boxd.it/8F1YRp,3,,,2025-01-29
+2025-01-31,Heretic,2024,https://boxd.it/8FL0Pv,3.5,,,2025-01-30
+2025-02-01,Mulholland Drive,2001,https://boxd.it/8GkOvb,5,,"cc2025, criterion challenge 2025, r-letterboxd, lbfilmclub, lbfcc-davidlynch",2025-01-31
