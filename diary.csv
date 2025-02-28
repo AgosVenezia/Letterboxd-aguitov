@@ -76,7 +76,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-11-15,Purple Hearts,2022,https://boxd.it/5a6XzV,2.5,,,2023-11-14
 2023-11-16,Fair Play,2023,https://boxd.it/5apeI7,3.5,,,2023-11-15
 2023-11-17,When Evil Lurks,2023,https://boxd.it/5aFOnL,4,,,2023-11-16
-2023-11-18,Soulmates,2020,https://boxd.it/5b4l0j,3.5,,,2023-11-17
 2023-11-19,Animal,2018,https://boxd.it/5bie0T,3.5,,,2023-11-18
 2023-11-20,Inseparables,2016,https://boxd.it/5bB6u5,3.5,,,2023-11-19
 2023-11-21,Normal People,2020,https://boxd.it/5c9ytR,5,Yes,,2023-11-20
@@ -205,7 +204,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-09-17,Blacksmithing Scene,1893,https://boxd.it/7loutv,3,,,2024-03-22
 2024-03-24,Expats,2024,https://boxd.it/67ki9r,4,,,2024-03-23
 2024-03-26,See You in Another Life,2024,https://boxd.it/68o9LN,4.5,,,2024-03-24
-2024-03-27,One Day,2024,https://boxd.it/68PCi5,5,,profile,2024-03-25
+2024-03-27,One Day,2024,https://boxd.it/68PCi5,5,,,2024-03-25
 2024-03-28,Never Let Me Go,2010,https://boxd.it/69c9l1,4,Yes,,2024-03-26
 2024-03-29,She's All That,1999,https://boxd.it/69Gq5T,2.5,,,2024-03-27
 2024-03-30,He's All That,2021,https://boxd.it/6a5Orp,3,,,2024-03-28
@@ -463,7 +462,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-12-09,"Maggie Simpson in ""Playdate with Destiny""",2020,https://boxd.it/80etcx,4,,,2024-12-08
 2024-12-10,Good Intentions,2018,https://boxd.it/80MgaL,4,,,2024-12-09
 2024-12-11,Let Go,2024,https://boxd.it/81gyY5,4.5,,,2024-12-10
-2024-12-12,Before Sunrise,1995,https://boxd.it/81GlVT,5,,"r-letterboxd, lbfilmraffle",2024-12-11
+2024-12-12,Before Sunrise,1995,https://boxd.it/81GlVT,5,,"r-letterboxd, lbfilmraffle, profile",2024-12-11
 2024-12-13,Ellipsis,2024,https://boxd.it/82chMd,3,,,2024-12-12
 2024-12-14,Green Room,2015,https://boxd.it/82AYjh,3,,,2024-12-13
 2024-12-15,The Social Dilemma,2020,https://boxd.it/8387xt,4,,,2024-12-14
@@ -500,9 +499,8 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-01-15,The Crime of Padre Amaro,2002,https://boxd.it/8ttN53,4,,,2025-01-14
 2025-01-16,The Words,2012,https://boxd.it/8uddy1,4.5,,,2025-01-15
 2025-01-17,My Own Private Idaho,1991,https://boxd.it/8uXO1F,3.5,,"cc2025, criterion challenge 2025, byc",2025-01-16
-2025-01-17,Welcome to Lumon,2021,https://boxd.it/8v7lSl,5,,,2025-01-17
 2025-01-19,Young Hunter,2020,https://boxd.it/8wrr7f,3.5,,,2025-01-18
-2025-01-20,Premonition Following an Evil Deed,1995,https://boxd.it/8xh2L9,3,,,2025-01-19
+2025-01-20,Premonitions Following an Evil Deed,1995,https://boxd.it/8xh2L9,3,,,2025-01-19
 2025-01-21,The Devil’s Passenger,2018,https://boxd.it/8ycYg3,2,,,2025-01-20
 2025-01-22,The Way Way Back,2013,https://boxd.it/8yYDcP,4,,"r-letterboxd, lbfilmraffle",2025-01-21
 2025-01-23,Emilia Pérez,2024,https://boxd.it/8zDtCZ,2,,,2025-01-22
@@ -512,6 +510,34 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-01-27,The Amputee,1974,https://boxd.it/8CJftD,2.5,,,2025-01-26
 2025-01-28,Abrazo Ceñido,2024,https://boxd.it/8DLrmH,4,,,2025-01-27
 2025-01-29,Kill the Jockey,2024,https://boxd.it/8EnIU3,3,,,2025-01-28
-2025-01-30,The Calendar Killer,2025,https://boxd.it/8F1YRp,3,,,2025-01-29
+2025-01-30,The Calendar Killer,2024,https://boxd.it/8F1YRp,3,,,2025-01-29
 2025-01-31,Heretic,2024,https://boxd.it/8FL0Pv,3.5,,,2025-01-30
 2025-02-01,Mulholland Drive,2001,https://boxd.it/8GkOvb,5,,"cc2025, criterion challenge 2025, r-letterboxd, lbfilmclub, lbfcc-davidlynch",2025-01-31
+2025-02-02,train,2019,https://boxd.it/8H4uqx,3,,,2025-02-01
+2025-02-03,Rescued by Rover,1905,https://boxd.it/8I5xx3,4,,,2025-02-02
+2025-02-04,Loop,2019,https://boxd.it/8IK9pL,3.5,,,2025-02-03
+2025-02-05,Babygirl,2024,https://boxd.it/8JpETf,4.5,,,2025-02-04
+2025-02-06,A Different Man,2024,https://boxd.it/8K1wK1,4.5,,,2025-02-05
+2025-02-07,The Devil's Own,1997,https://boxd.it/8KyCBF,4.5,Yes,,2025-02-06
+2025-02-08,Heat,1995,https://boxd.it/8LbP6t,4.5,,,2025-02-07
+2025-02-09,The Dog Outwits the Kidnapper,1908,https://boxd.it/8LR0hz,3,,,2025-02-08
+2025-02-10,How It Feels to Be Run Over,1900,https://boxd.it/8MDuT5,3.5,,,2025-02-09
+2025-02-11,The Kid,1921,https://boxd.it/8Nlqid,4.5,,"cc2025, criterion challenge 2025",2025-02-10
+2025-02-12,Bridget Jones's Diary,2001,https://boxd.it/8NVtPB,3.5,,,2025-02-11
+2025-02-13,Bridget Jones: The Edge of Reason,2004,https://boxd.it/8OvGj1,4,,,2025-02-12
+2025-02-14,Bridget Jones's Baby,2016,https://boxd.it/8P2kGj,3.5,,,2025-02-13
+2025-02-15,Bridget Jones: Mad About the Boy,2025,https://boxd.it/8PC9rJ,4,,,2025-02-14
+2025-02-16,Test Area,2024,https://boxd.it/8QoxpX,3,,,2025-02-15
+2025-02-17,Brazil,1985,https://boxd.it/8R9BnP,3.5,,"r-letterboxd, lbfilmclub, lbfcc-dystopianmovies, cc2025, criterion challenge 2025",2025-02-16
+2025-02-18,Nightbitch,2024,https://boxd.it/8RTykb,3,,,2025-02-17
+2025-02-19,Good Time,2017,https://boxd.it/8SAtY7,5,,"r-letterboxd, lbfilmraffle",2025-02-18
+2025-02-20,Wish You Were Here,2025,https://boxd.it/8TanZv,4.5,,,2025-02-19
+2025-02-21,Companion,2025,https://boxd.it/8TIpvv,4,,,2025-02-20
+2025-02-22,Risky Business,1983,https://boxd.it/8UkUW9,5,Yes,"cc2025, criterion challenge 2025",2025-02-21
+2025-02-23,The Arrival of a Train at La Ciotat,1896,https://boxd.it/8UYBGr,3.5,,,2025-02-22
+2025-02-24,The Gorge,2025,https://boxd.it/8VHor9,4.5,,,2025-02-23
+2025-02-25,Conclave,2024,https://boxd.it/8Wpwgr,4.5,,,2025-02-24
+2025-02-26,Maria,2024,https://boxd.it/8X5eXV,4.5,,,2025-02-25
+2025-02-27,The Brutalist,2024,https://boxd.it/8XEztH,3,,,2025-02-26
+2025-02-28,A Complete Unknown,2024,https://boxd.it/8YahyD,5,,,2025-02-27
+2025-03-01,Instruments of a Beating Heart,2024,https://boxd.it/8YGZdN,4.5,,,2025-02-28
