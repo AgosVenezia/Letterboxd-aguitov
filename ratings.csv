@@ -68,14 +68,14 @@ Date,Name,Year,Letterboxd URI,Rating
 2023-11-10,El castigo,2022,https://boxd.it/Cx0I,4
 2023-11-11,Life Itself,2018,https://boxd.it/fUda,4.5
 2023-11-12,Only You,2018,https://boxd.it/iAMg,5
-2023-11-13,Football or Me,2017,https://boxd.it/gKFq,2.5
-2023-11-14,We Need to Talk About Kevin,2011,https://boxd.it/2pTS,3.5
+2023-11-14,Football or Me,2017,https://boxd.it/gKFq,2.5
+2023-11-15,We Need to Talk About Kevin,2011,https://boxd.it/2pTS,3.5
 2023-11-15,Purple Hearts,2022,https://boxd.it/sFiK,2.5
 2023-11-16,Fair Play,2023,https://boxd.it/yirc,3.5
 2023-11-17,When Evil Lurks,2023,https://boxd.it/rXBe,4
 2023-11-19,Animal,2018,https://boxd.it/i2tu,3.5
 2023-11-20,Inseparables,2016,https://boxd.it/eMfU,3.5
-2023-11-21,Normal People,2020,https://boxd.it/q2VY,5
+2023-11-22,Normal People,2020,https://boxd.it/q2VY,5
 2023-11-22,Rojo,2018,https://boxd.it/jFtq,1
 2023-11-24,The Lobbyist,2018,https://boxd.it/HLGS,3.5
 2023-11-24,Wandering Heart,2021,https://boxd.it/rT7Y,4
@@ -232,7 +232,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-04-28,Drive-Away Dolls,2024,https://boxd.it/A8vi,2.5
 2024-04-29,Modern Times,1936,https://boxd.it/25MC,5
 2024-05-01,Late Night with the Devil,2023,https://boxd.it/zo6G,4
-2024-05-03,The Social Network,2010,https://boxd.it/17ue,5
+2024-05-04,The Social Network,2010,https://boxd.it/17ue,5
 2024-05-04,Blue Jay,2016,https://boxd.it/enEq,4.5
 2024-05-05,The Idea of You,2024,https://boxd.it/vOW6,4
 2024-05-06,Baby Reindeer,2024,https://boxd.it/MwSa,5
@@ -244,10 +244,10 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-05-14,Confessions,2023,https://boxd.it/FJWg,4.5
 2024-05-16,Amores Perros,2000,https://boxd.it/2bfu,5
 2024-05-19,The Breakfast Club,1985,https://boxd.it/27q4,5
-2024-05-21,Ferrari,2023,https://boxd.it/cEtq,4
+2024-05-22,Ferrari,2023,https://boxd.it/cEtq,4
 2024-05-22,Little Women,2019,https://boxd.it/aSVk,4.5
 2024-05-23,Calladita,2020,https://boxd.it/svIS,3.5
-2024-05-24,May revolution,1909,https://boxd.it/6RkE,3
+2024-05-24,The May Revolution,1909,https://boxd.it/6RkE,3
 2024-05-28,Atonement,2007,https://boxd.it/24ui,4.5
 2024-05-29,Nahir,2024,https://boxd.it/KUdc,3.5
 2024-06-01,Challengers,2024,https://boxd.it/zld0,5
@@ -322,7 +322,7 @@ Date,Name,Year,Letterboxd URI,Rating
 2024-07-30,Black Mirror: Metalhead,2017,https://boxd.it/hRqk,3
 2024-07-31,Elite Short Stories: Guzmán Caye Rebe,2021,https://boxd.it/vsZC,4
 2024-08-01,Elite Short Stories: Nadia Guzmán,2021,https://boxd.it/vsZW,3.5
-2024-08-01,Jesus of Suburbia,2005,https://boxd.it/qv7y,5
+2024-08-01,Green Day: Jesus of Suburbia,2005,https://boxd.it/qv7y,5
 2024-08-02,Super Crazy,2018,https://boxd.it/iAN4,4
 2024-08-03,Little Lies,2022,https://boxd.it/vsgi,3.5
 2024-08-04,Portrait of a Lady on Fire,2019,https://boxd.it/jkPq,4.5
@@ -510,12 +510,12 @@ Date,Name,Year,Letterboxd URI,Rating
 2025-01-27,The Amputee,1974,https://boxd.it/HtO,2.5
 2025-01-28,Abrazo Ceñido,2024,https://boxd.it/SGxS,4
 2025-01-29,Kill the Jockey,2024,https://boxd.it/FNA4,3
-2025-01-30,The Calendar Killer,2024,https://boxd.it/Rr8c,3
+2025-01-30,The Calendar Killer,2025,https://boxd.it/Rr8c,3
 2025-01-31,Heretic,2024,https://boxd.it/H1lY,3.5
 2025-02-01,Mulholland Drive,2001,https://boxd.it/297o,5
 2025-02-02,train,2019,https://boxd.it/EAEA,3
 2025-02-03,Rescued by Rover,1905,https://boxd.it/3ife,4
-2025-02-04,Loop,2019,https://boxd.it/l4OA,3.5
+2025-02-04,Loop,2020,https://boxd.it/l4OA,3.5
 2025-02-05,Babygirl,2024,https://boxd.it/Fvai,4.5
 2025-02-06,A Different Man,2024,https://boxd.it/BoEC,4.5
 2025-02-07,The Devil's Own,1997,https://boxd.it/24he,4.5
@@ -570,6 +570,38 @@ Date,Name,Year,Letterboxd URI,Rating
 2025-03-28,Holland,2025,https://boxd.it/7Axy,3.5
 2025-03-29,Adolescence,2025,https://boxd.it/TFGw,5
 2025-03-30,"Black Mirror: Rachel, Jack and Ashley Too",2019,https://boxd.it/mltQ,3.5
-2025-03-31,Someday,2025,https://boxd.it/TScY,4
 2025-03-31,Black Mirror: Joan Is Awful,2023,https://boxd.it/GWmi,4
 2025-04-01,Dogfight,1991,https://boxd.it/1NCk,5
+2025-04-02,The Banshees of Inisherin,2022,https://boxd.it/p7XS,4.5
+2025-04-03,The Life List,2025,https://boxd.it/LN3c,5
+2025-04-04,I'm Still Here,2024,https://boxd.it/BPEO,4.5
+2025-04-05,Black Mirror: Loch Henry,2023,https://boxd.it/H7Pg,4.5
+2025-04-06,Black Mirror: Beyond the Sea,2023,https://boxd.it/H7QI,5
+2025-04-07,Black Mirror: Mazey Day,2023,https://boxd.it/H7QS,2
+2025-04-08,Black Mirror: Demon 79,2023,https://boxd.it/H7Rc,4
+2025-04-09,Career Opportunities,1991,https://boxd.it/1Ksw,3.5
+2025-04-10,One of Them Days,2025,https://boxd.it/MReU,4
+2025-04-11,Black Mirror: Common People,2025,https://boxd.it/U1Vy,4.5
+2025-04-12,Making of The Last of Us,2023,https://boxd.it/FCjc,5
+2025-04-12,Black Mirror: Bête Noire,2025,https://boxd.it/U1VI,4
+2025-04-13,Serenade to Miette,2011,https://boxd.it/gqdc,3.5
+2025-04-14,Sidewalls,2011,https://boxd.it/2EiM,5
+2025-04-15,Caught,2025,https://boxd.it/TY0k,4.5
+2025-04-16,Clueless,1995,https://boxd.it/1Ygk,5
+2025-04-17,The Silence of the Lambs,1991,https://boxd.it/2aHW,4.5
+2025-04-18,Short Cuts,1993,https://boxd.it/29Nk,5
+2025-04-19,"Love, Death & Robots: Sonnie's Edge",2019,https://boxd.it/lECg,3
+2025-04-20,"Love, Death & Robots: Three Robots",2019,https://boxd.it/lECK,4
+2025-04-21,"Love, Death & Robots: The Witness",2019,https://boxd.it/lFO8,4.5
+2025-04-22,Call Me Francis,2015,https://boxd.it/cROm,3
+2025-04-23,September 5,2024,https://boxd.it/JYsI,4.5
+2025-04-24,Shiva Baby,2020,https://boxd.it/oIv0,4
+2025-04-25,Rocco and His Brothers,1960,https://boxd.it/20bG,5
+2025-04-26,Apple Cider Vinegar,2025,https://boxd.it/SMcm,5
+2025-04-27,Pope Leo XIII Being Seated Bestowing Blessing,,https://boxd.it/aBuc,3
+2025-04-27,"Pope Leo XIII Leaving Carriage and Being Ushered Into Garden, No. 104",1898,https://boxd.it/mfMM,3
+2025-04-27,Pope Leo XIII in His Carriage,1898,https://boxd.it/q2Jy,3
+2025-04-28,Widows,2011,https://boxd.it/2PtG,2
+2025-04-29,"Love, Death & Robots: Suits",2019,https://boxd.it/lFOM,3.5
+2025-04-30,Winter Spring Summer or Fall,2024,https://boxd.it/E4jK,4.5
+2025-05-01,The Monkey,2025,https://boxd.it/Gwiu,3.5
