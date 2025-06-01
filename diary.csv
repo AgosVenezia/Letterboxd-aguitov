@@ -58,7 +58,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-10-28,The Wild Children,2012,https://boxd.it/541gH9,3.5,,,2023-10-27
 2023-10-29,White Coffin,2016,https://boxd.it/54nY79,1,,,2023-10-28
 2023-10-30,Nowhere,2023,https://boxd.it/54L3nd,3.5,,,2023-10-29
-2023-10-31,I'm Not Your Mom,2019,https://boxd.it/557CnL,3,Yes,,2023-10-30
 2023-11-01,Vivarium,2019,https://boxd.it/55vtXt,3.5,,,2023-10-31
 2023-11-02,Forgive Us Our Trespasses,2022,https://boxd.it/55VIMn,3,Yes,,2023-11-01
 2023-11-03,Coco,2017,https://boxd.it/56dqUz,4.5,,,2023-11-02
@@ -141,7 +140,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-01-19,9,2021,https://boxd.it/5CQWBF,4,,,2024-01-18
 2024-01-20,Bodyguard,2018,https://boxd.it/5Dn0QX,4.5,,,2024-01-19
 2024-01-22,Nadie puede ser tan malo haciendo café,2018,https://boxd.it/5EtOTD,3,Yes,,2024-01-20
-2024-01-22,Crazy About Her,2021,https://boxd.it/5EuIAn,4.5,Yes,,2024-01-21
 2024-01-23,The Last Letter from Your Lover,2021,https://boxd.it/5EYkZD,5,Yes,,2024-01-22
 2024-01-24,Weekend at Bernie's,1989,https://boxd.it/5FohHj,5,Yes,,2024-01-23
 2024-01-25,La empresa,2020,https://boxd.it/5FTigb,4,Yes,,2024-01-24
@@ -560,7 +558,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-03-15,Flower,2017,https://boxd.it/97CLrp,4,,,2025-03-14
 2025-03-16,Horse Trick Riders,1895,https://boxd.it/98dIBF,1,,,2025-03-15
 2025-03-17,Fear and Loathing in Las Vegas,1998,https://boxd.it/990cCp,4,Yes,"cc2025, criterion challenge 2025, r-letterboxd, lbfilmclub, lbfcc-vivalasvegas",2025-03-16
-2025-03-18,Una muerte silenciosa,2025,https://boxd.it/99F8Lf,2.5,,,2025-03-17
+2025-03-18,A Silent Death,2025,https://boxd.it/99F8Lf,2.5,,,2025-03-17
 2025-03-19,Like Crazy,2011,https://boxd.it/9ag6bt,5,Yes,,2025-03-18
 2025-03-20,Femme,2023,https://boxd.it/9aMgz5,4.5,,,2025-03-19
 2025-03-21,Red Rooms,2023,https://boxd.it/9bitq5,4.5,,,2025-03-20
@@ -600,8 +598,38 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-04-24,Shiva Baby,2020,https://boxd.it/9v4M2t,4,,,2025-04-23
 2025-04-25,Rocco and His Brothers,1960,https://boxd.it/9vAS0n,5,,"cc2025, criterion challenge 2025",2025-04-24
 2025-04-26,Apple Cider Vinegar,2025,https://boxd.it/9w5vz7,5,,,2025-04-25
-2025-04-27,Pope Leo XIII Being Seated Bestowing Blessing,,https://boxd.it/9wCBSv,3,,,2025-04-26
+2025-04-27,Pope Leo XIII Being Seated Bestowing Blessing,1900,https://boxd.it/9wCBSv,3,,,2025-04-26
 2025-04-28,Widows,2011,https://boxd.it/9xkSE9,2,,,2025-04-27
 2025-04-29,"Love, Death & Robots: Suits",2019,https://boxd.it/9xZf3Z,3.5,Yes,,2025-04-28
 2025-04-30,Winter Spring Summer or Fall,2024,https://boxd.it/9yrhjB,4.5,,,2025-04-29
 2025-05-01,The Monkey,2025,https://boxd.it/9yX66b,3.5,,,2025-04-30
+2025-05-02,A Simple Favor,2018,https://boxd.it/9ztKa7,4,,,2025-05-01
+2025-05-02,Another Simple Favor,2025,https://boxd.it/9zvy2p,3.5,,,2025-05-02
+2025-05-04,"Love, Death & Robots: Sucker of Souls",2019,https://boxd.it/9AIej1,2,Yes,,2025-05-03
+2025-05-05,"Love, Death & Robots: When the Yogurt Took Over",2019,https://boxd.it/9BrbGB,3,Yes,,2025-05-04
+2025-05-06,The Truce,1974,https://boxd.it/9CdYUX,3.5,,,2025-05-05
+2025-05-07,Déjame Estar Contigo,2025,https://boxd.it/9CJPh7,4.5,,,2025-05-06
+2025-05-08,The Eternaut,2025,https://boxd.it/9DeNjR,5,,,2025-05-07
+2025-05-09,Last Summer,2023,https://boxd.it/9DHRvF,4.5,,"cc2025, criterion challenge 2025",2025-05-08
+2025-05-10,Blow Out,1981,https://boxd.it/9EaOW7,4,,"r-letterboxd, lbfilmraffle, cc2025, criterion challenge 2025",2025-05-09
+2025-05-11,The Shop Around the Corner,1940,https://boxd.it/9EKJDL,5,,,2025-05-10
+2025-05-12,Bad Influence,2025,https://boxd.it/9FoADR,2,,,2025-05-11
+2025-05-13,Final Destination,2000,https://boxd.it/9G4rQh,4,Yes,,2025-05-12
+2025-05-14,Final Destination 2,2003,https://boxd.it/9GzIFx,3,Yes,,2025-05-13
+2025-05-15,Final Destination 3,2006,https://boxd.it/9H6j1X,4.5,Yes,,2025-05-14
+2025-05-16,The Final Destination,2009,https://boxd.it/9HE50p,2.5,Yes,,2025-05-15
+2025-05-17,Final Destination 5,2011,https://boxd.it/9I6BxL,3.5,Yes,,2025-05-16
+2025-05-19,"Love, Death & Robots: Beyond the Aquila Rift",2019,https://boxd.it/9Jngbd,5,Yes,,2025-05-17
+2025-05-19,"Love, Death & Robots: Good Hunting",2019,https://boxd.it/9JqDNZ,4,Yes,,2025-05-18
+2025-05-20,"Love, Death & Robots: The Dump",2019,https://boxd.it/9K3XJr,1.5,Yes,,2025-05-19
+2025-05-21,Romeo and Juliet,1968,https://boxd.it/9KDx03,5,,"cc2025, criterion challenge 2025",2025-05-20
+2025-05-22,Trap,2024,https://boxd.it/9LcVO7,3.5,,,2025-05-21
+2025-05-23,Drugstore Cowboy,1989,https://boxd.it/9LKjvf,4,,"cc2025, criterion challenge 2025",2025-05-22
+2025-05-24,Crazy About Her,2021,https://boxd.it/9Mg0Sj,4.5,Yes,,2025-05-23
+2025-05-25,I'm Not Your Mom,2019,https://boxd.it/9MSFhp,3,Yes,,2025-05-24
+2025-05-26,Double Mommy,2016,https://boxd.it/9NEotT,4,,,2025-05-25
+2025-05-27,Shanghai Express,1932,https://boxd.it/9OqpSh,4,,"cc2025, criterion challenge 2025",2025-05-26
+2025-05-28,Drop,2025,https://boxd.it/9P4aJT,3.5,,,2025-05-27
+2025-05-29,Little Fish,2020,https://boxd.it/9PFqZR,5,,,2025-05-28
+2025-05-30,A Quiet Place,2018,https://boxd.it/9Qhzc1,4.5,Yes,,2025-05-29
+2025-06-01,Johnny Suede,1991,https://boxd.it/9RrVr7,2,,byc,2025-05-31
