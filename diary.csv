@@ -58,6 +58,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-10-28,The Wild Children,2012,https://boxd.it/541gH9,3.5,,,2023-10-27
 2023-10-29,White Coffin,2016,https://boxd.it/54nY79,1,,,2023-10-28
 2023-10-30,Nowhere,2023,https://boxd.it/54L3nd,3.5,,,2023-10-29
+2025-04-19,"Love, Death & Robots: Sonnie's Edge",2019,https://boxd.it/9rBZEv,3,Yes,,2023-10-30
 2023-11-01,Vivarium,2019,https://boxd.it/55vtXt,3.5,,,2023-10-31
 2023-11-02,Forgive Us Our Trespasses,2022,https://boxd.it/55VIMn,3,Yes,,2023-11-01
 2023-11-03,Coco,2017,https://boxd.it/56dqUz,4.5,,,2023-11-02
@@ -98,7 +99,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-12-08,"Love, Rosie",2014,https://boxd.it/5hK1C1,4.5,,,2023-12-07
 2023-12-09,Sunstrokes,2014,https://boxd.it/5i2V7J,3.5,,,2023-12-08
 2023-12-10,"River, el más grande siempre",2019,https://boxd.it/5inuJj,5,,,2023-12-09
-2023-12-11,Begin Again,2013,https://boxd.it/5iQzyD,3.5,,,2023-12-10
 2023-12-12,May December,2023,https://boxd.it/5jcjwP,4.5,,,2023-12-11
 2023-12-13,Daisy Jones & the Six,2023,https://boxd.it/5jzryZ,5,Yes,,2023-12-12
 2023-12-14,Full Circle,2023,https://boxd.it/5jTuPz,3.5,,,2023-12-13
@@ -590,7 +590,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-04-16,Clueless,1995,https://boxd.it/9pXrKv,5,Yes,,2025-04-15
 2025-04-17,The Silence of the Lambs,1991,https://boxd.it/9qvGGh,4.5,,"r-letterboxd, lbfilmraffle, byc, cc2025, criterion challenge 2025",2025-04-16
 2025-04-18,Short Cuts,1993,https://boxd.it/9r4d1f,5,,"cc2025, criterion challenge 2025",2025-04-17
-2025-04-19,"Love, Death & Robots: Sonnie's Edge",2019,https://boxd.it/9rBZEv,3,Yes,,2025-04-18
 2025-04-20,"Love, Death & Robots: Three Robots",2019,https://boxd.it/9shCxb,4,Yes,,2025-04-19
 2025-04-21,"Love, Death & Robots: The Witness",2019,https://boxd.it/9t2DxF,4.5,Yes,,2025-04-20
 2025-04-22,Call Me Francis,2015,https://boxd.it/9tMRmj,3,,,2025-04-21
@@ -600,7 +599,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-04-26,Apple Cider Vinegar,2025,https://boxd.it/9w5vz7,5,,,2025-04-25
 2025-04-27,Pope Leo XIII Being Seated Bestowing Blessing,1900,https://boxd.it/9wCBSv,3,,,2025-04-26
 2025-04-28,Widows,2011,https://boxd.it/9xkSE9,2,,,2025-04-27
-2025-04-29,"Love, Death & Robots: Suits",2019,https://boxd.it/9xZf3Z,3.5,Yes,,2025-04-28
+2025-04-29,"Love, Death & Robots: Suits",2019,https://boxd.it/9xZf3Z,3,Yes,,2025-04-28
 2025-04-30,Winter Spring Summer or Fall,2024,https://boxd.it/9yrhjB,4.5,,,2025-04-29
 2025-05-01,The Monkey,2025,https://boxd.it/9yX66b,3.5,,,2025-04-30
 2025-05-02,A Simple Favor,2018,https://boxd.it/9ztKa7,4,,,2025-05-01
@@ -608,7 +607,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-05-04,"Love, Death & Robots: Sucker of Souls",2019,https://boxd.it/9AIej1,2,Yes,,2025-05-03
 2025-05-05,"Love, Death & Robots: When the Yogurt Took Over",2019,https://boxd.it/9BrbGB,3,Yes,,2025-05-04
 2025-05-06,The Truce,1974,https://boxd.it/9CdYUX,3.5,,,2025-05-05
-2025-05-07,Déjame Estar Contigo,2025,https://boxd.it/9CJPh7,4.5,,,2025-05-06
+2025-05-07,Let Me Be with You,2025,https://boxd.it/9CJPh7,4.5,,,2025-05-06
 2025-05-08,The Eternaut,2025,https://boxd.it/9DeNjR,5,,,2025-05-07
 2025-05-09,Last Summer,2023,https://boxd.it/9DHRvF,4.5,,"cc2025, criterion challenge 2025",2025-05-08
 2025-05-10,Blow Out,1981,https://boxd.it/9EaOW7,4,,"r-letterboxd, lbfilmraffle, cc2025, criterion challenge 2025",2025-05-09
@@ -632,4 +631,34 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-05-28,Drop,2025,https://boxd.it/9P4aJT,3.5,,,2025-05-27
 2025-05-29,Little Fish,2020,https://boxd.it/9PFqZR,5,,,2025-05-28
 2025-05-30,A Quiet Place,2018,https://boxd.it/9Qhzc1,4.5,Yes,,2025-05-29
+2025-06-02,"Love, Death & Robots: Shape-Shifters",2019,https://boxd.it/9Sc6q7,4,Yes,,2025-05-30
 2025-06-01,Johnny Suede,1991,https://boxd.it/9RrVr7,2,,byc,2025-05-31
+2025-06-09,"Love, Death & Robots: Helping Hand",2019,https://boxd.it/9WryuH,3.5,Yes,,2025-06-01
+2025-06-09,"Love, Death & Robots: Fish Night",2019,https://boxd.it/9WsCYX,3,Yes,,2025-06-02
+2025-06-04,Warfare,2025,https://boxd.it/9Ts995,4.5,,,2025-06-03
+2025-06-05,Chemical Hearts,2020,https://boxd.it/9TZrV3,4.5,Yes,,2025-06-04
+2025-06-06,Marked Men: Rule + Shaw,2025,https://boxd.it/9UOHX7,1.5,,,2025-06-05
+2025-06-07,Sinners,2025,https://boxd.it/9V581L,5,,,2025-06-06
+2025-06-08,Back in the USSR,1992,https://boxd.it/9VGQJV,4,,,2025-06-07
+2025-06-10,Joy Ride,2001,https://boxd.it/9X6kGr,4,,"r-letterboxd, lbfilmraffle",2025-06-09
+2025-06-11,Heart Eyes,2025,https://boxd.it/9XJLiJ,3,,,2025-06-10
+2025-06-12,Anatomy of a Fall,2023,https://boxd.it/9YjGDz,5,,"r-letterboxd, lbfilmclub, lbfcc-dogmovies, cc2025, criterion challenge 2025",2025-06-11
+2025-06-13,Mickey 17,2025,https://boxd.it/9YPuit,2,,,2025-06-12
+2025-06-14,"Love, Death & Robots: Lucky 13",2019,https://boxd.it/9Zosl1,3,Yes,,2025-06-13
+2025-06-15,Citizen Kane,1941,https://boxd.it/a04hwV,4.5,Yes,"cc2025, criterion challenge 2025",2025-06-14
+2025-06-16,Echo Valley,2025,https://boxd.it/a0MDfF,3,,,2025-06-15
+2025-06-15,"Love, Death & Robots: Zima Blue",2019,https://boxd.it/a0bgxn,5,Yes,,2025-06-16
+2025-06-18,Mazel Tov,2025,https://boxd.it/a29Jvf,4,,,2025-06-17
+2025-06-19,STRAW,2025,https://boxd.it/a2IBg7,4.5,,,2025-06-18
+2025-06-22,"Love, Death & Robots: Blindspot",2019,https://boxd.it/a4B1qp,2.5,Yes,,2025-06-19
+2025-06-21,Black Mirror: Hotel Reverie,2025,https://boxd.it/a3X5RJ,3,,,2025-06-20
+2025-06-22,"Love, Death & Robots: Ice Age",2019,https://boxd.it/a4BWEN,3,Yes,,2025-06-21
+2025-06-23,The Scarecrow,1920,https://boxd.it/a5lAtb,4.5,,,2025-06-22
+2025-06-24,"Love, Death & Robots: Alternate Histories",2019,https://boxd.it/a65Wep,1,Yes,,2025-06-23
+2025-06-25,The Age of Innocence,1993,https://boxd.it/a6J6Pj,3,,"cc2025, criterion challenge 2025",2025-06-24
+2025-06-26,Steel Magnolias,1989,https://boxd.it/a7naZx,4.5,,,2025-06-25
+2025-06-27,Begin Again,2013,https://boxd.it/a848FB,3.5,,,2025-06-26
+2025-06-28,Lee,2023,https://boxd.it/a8D6nP,4.5,,,2025-06-27
+2025-07-01,"Love, Death & Robots: The Secret War",2019,https://boxd.it/aaJO8f,3,Yes,,2025-06-30
+2025-07-02,The Double Life of Véronique,1991,https://boxd.it/abpjAB,3.5,,,2025-07-01
+2025-07-03,Bring Her Back,2025,https://boxd.it/ac3CQt,4,,,2025-07-02
