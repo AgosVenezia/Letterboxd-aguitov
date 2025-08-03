@@ -49,7 +49,6 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-10-19,The Son,2022,https://boxd.it/517saV,4.5,,,2023-10-18
 2023-10-20,The Girl from Uruguay,2022,https://boxd.it/51ohhb,3.5,,,2023-10-19
 2023-10-21,Lion's Heart,2013,https://boxd.it/51HhxB,3,Yes,,2023-10-20
-2023-10-22,Adrift,2018,https://boxd.it/520bd9,4.5,,,2023-10-21
 2023-10-23,Doomed,2014,https://boxd.it/52rFc5,4,Yes,,2023-10-22
 2023-10-24,So Much Love to Give,2020,https://boxd.it/52O4Bj,2.5,,,2023-10-23
 2023-10-25,The Swan,2023,https://boxd.it/5369vr,4,Yes,,2023-10-24
@@ -404,7 +403,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-10-14,A Trip to the Moon,1902,https://boxd.it/7xKAKp,4,,,2024-10-11
 2024-10-13,Host,2020,https://boxd.it/7x7nhB,4.5,Yes,,2024-10-12
 2024-10-14,Save Ralph,2021,https://boxd.it/7xIjDn,4,,,2024-10-13
-2024-10-15,The Haunted Castle,1896,https://boxd.it/7yji0j,3,,,2024-10-14
+2024-10-15,Le manoir du diable,1896,https://boxd.it/7yji0j,3,,,2024-10-14
 2024-10-16,A True Gentleman,2024,https://boxd.it/7yO9dZ,2.5,,,2024-10-15
 2024-10-17,Reality+,2014,https://boxd.it/7zhI7F,4.5,,,2024-10-16
 2024-10-18,Revenge,2017,https://boxd.it/7zIsHB,4,,,2024-10-17
@@ -590,6 +589,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-04-16,Clueless,1995,https://boxd.it/9pXrKv,5,Yes,,2025-04-15
 2025-04-17,The Silence of the Lambs,1991,https://boxd.it/9qvGGh,4.5,,"r-letterboxd, lbfilmraffle, byc, cc2025, criterion challenge 2025",2025-04-16
 2025-04-18,Short Cuts,1993,https://boxd.it/9r4d1f,5,,"cc2025, criterion challenge 2025",2025-04-17
+2025-07-28,Something Good – Negro Kiss (Alternate Version),1898,https://boxd.it/av5yPV,3,,,2025-04-18
 2025-04-20,"Love, Death & Robots: Three Robots",2019,https://boxd.it/9shCxb,4,Yes,,2025-04-19
 2025-04-21,"Love, Death & Robots: The Witness",2019,https://boxd.it/9t2DxF,4.5,Yes,,2025-04-20
 2025-04-22,Call Me Francis,2015,https://boxd.it/9tMRmj,3,,,2025-04-21
@@ -659,6 +659,37 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-06-26,Steel Magnolias,1989,https://boxd.it/a7naZx,4.5,,,2025-06-25
 2025-06-27,Begin Again,2013,https://boxd.it/a848FB,3.5,,,2025-06-26
 2025-06-28,Lee,2023,https://boxd.it/a8D6nP,4.5,,,2025-06-27
+2025-07-06,100% Beef,2013,https://boxd.it/ae1RjD,0.5,,,2025-06-28
+2025-07-07,Roundhay Garden Scene,1888,https://boxd.it/aeO9fl,4,Yes,,2025-06-29
 2025-07-01,"Love, Death & Robots: The Secret War",2019,https://boxd.it/aaJO8f,3,Yes,,2025-06-30
-2025-07-02,The Double Life of Véronique,1991,https://boxd.it/abpjAB,3.5,,,2025-07-01
+2025-07-02,The Double Life of Véronique,1991,https://boxd.it/abpjAB,3.5,,"cc2025, criterion challenge 2025, byc",2025-07-01
 2025-07-03,Bring Her Back,2025,https://boxd.it/ac3CQt,4,,,2025-07-02
+2025-07-04,On Swift Horses,2024,https://boxd.it/acEtrD,4.5,,,2025-07-03
+2025-07-05,Man in Love,2021,https://boxd.it/adkMGh,4.5,,,2025-07-04
+2025-07-06,"Love, Death & Robots: Automated Customer Service",2021,https://boxd.it/adWE8x,4.5,,,2025-07-05
+2025-07-07,"Love, Death & Robots: Ice",2021,https://boxd.it/aeJGNl,2.5,Yes,,2025-07-06
+2025-07-08,Defending Your Life,1991,https://boxd.it/afzwl1,4.5,,"cc2025, criterion challenge 2025, byc",2025-07-07
+2025-07-09,Love & Other Drugs,2010,https://boxd.it/agfQQR,5,,,2025-07-08
+2025-07-10,Pieces of April,2003,https://boxd.it/agXnod,3.5,,,2025-07-09
+2025-07-11,Latin Blood – The Ballad of Ney Matogrosso,2025,https://boxd.it/ahDccJ,4.5,,,2025-07-10
+2025-07-12,Oddity,2024,https://boxd.it/aikh2F,4.5,,"r-letterboxd, lbfilmraffle",2025-07-11
+2025-07-13,Today We Fix the World,2022,https://boxd.it/aj5Dx5,4,,,2025-07-12
+2025-07-14,Katsudō Shashin,1907,https://boxd.it/ajUmRf,2.5,Yes,,2025-07-13
+2025-07-15,"Love, Death & Robots: Pop Squad",2021,https://boxd.it/akMWx9,4.5,Yes,,2025-07-14
+2025-07-16,Cold War,2018,https://boxd.it/alxgGR,4.5,,"cc2025, criterion challenge 2025",2025-07-15
+2025-07-17,The Perfect Human,1968,https://boxd.it/amfdgp,2,,,2025-07-16
+2025-07-18,Adrift,2018,https://boxd.it/amWXLf,5,,,2025-07-17
+2025-07-19,Tex,1982,https://boxd.it/anGe7r,4.5,,,2025-07-18
+2025-07-20,"Love, Death & Robots: Snow in the Desert",2021,https://boxd.it/aopNOb,3.5,Yes,,2025-07-19
+2025-07-21,"Love, Death & Robots: The Tall Grass",2021,https://boxd.it/apgEEH,2,Yes,,2025-07-20
+2025-07-22,The Elephant Man,1980,https://boxd.it/aqclET,4,,"r-letterboxd, lbfilmclub, lbfcc-peoplewithdisabilities, cc2025, criterion challenge 2025",2025-07-21
+2025-07-23,Follow,2025,https://boxd.it/aqXVLP,2,,,2025-07-22
+2025-07-24,Rumble Fish,1983,https://boxd.it/arLhcF,1.5,,"cc2025, criterion challenge 2025",2025-07-23
+2025-07-25,Chespirito: Not Really on Purpose,2025,https://boxd.it/asz9cn,4.5,,,2025-07-24
+2025-07-26,Dangerous Animals,2025,https://boxd.it/atkvF1,5,,,2025-07-25
+2025-07-27,Thin Watermelon,2010,https://boxd.it/aucxAl,2.5,,,2025-07-26
+2025-07-28,Something Good — Negro Kiss,1898,https://boxd.it/av4nMJ,3,,,2025-07-27
+2025-07-29,Fury,2025,https://boxd.it/aw1RdH,4.5,,,2025-07-28
+2025-07-30,Happy Gilmore,1996,https://boxd.it/awQj49,3.5,,,2025-07-29
+2025-07-31,Happy Gilmore 2,2025,https://boxd.it/axDiy1,3.5,,,2025-07-30
+2025-08-01,The Seven Faces of Jane,2022,https://boxd.it/ayndpl,1.5,,,2025-07-31
