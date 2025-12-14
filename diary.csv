@@ -1,15 +1,9 @@
 Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
-2023-09-02,On the Line,2022,https://boxd.it/4MNHxf,1.5,,,2023-09-01
 2023-09-03,Past Lives,2023,https://boxd.it/4N42O9,5,,,2023-09-02
 2023-09-04,I Origins,2014,https://boxd.it/4Np6PR,5,,,2023-09-03
 2023-09-05,An Argentinian in New York,1998,https://boxd.it/4NJKVZ,3.5,Yes,,2023-09-04
-2023-09-07,2:37,2006,https://boxd.it/4OiNvP,4,Yes,,2023-09-06
-2023-09-08,4x4,2019,https://boxd.it/4OyUnZ,2.5,,,2023-09-07
 2023-09-09,Truman,2015,https://boxd.it/4ONxFr,4,Yes,,2023-09-08
 2023-09-10,No Hard Feelings,2023,https://boxd.it/4P7hnr,4.5,,,2023-09-09
-2023-09-11,7 Boxes,2012,https://boxd.it/4Pt3zR,4.5,,,2023-09-10
-2023-09-12,Remember Me,2010,https://boxd.it/4POu73,3.5,,,2023-09-11
-2023-09-13,Miracle in Cell No. 7,2019,https://boxd.it/4Q48gJ,4,,,2023-09-12
 2023-09-14,The Crowded Room,2023,https://boxd.it/4Qj56V,4.5,,,2023-09-13
 2023-09-15,Burning Body,2023,https://boxd.it/4QyawJ,4,,,2023-09-14
 2023-09-16,Killer Book Club,2023,https://boxd.it/4QMC47,3,,,2023-09-15
@@ -29,6 +23,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2023-09-30,The Wonderful Story of Henry Sugar,2023,https://boxd.it/4UNbuZ,4.5,Yes,,2023-09-29
 2023-10-01,"Red, White & Royal Blue",2023,https://boxd.it/4V8h9l,3,,,2023-09-30
 2023-10-02,The Disappearance of Eleanor Rigby: Him,2013,https://boxd.it/4Vu1Or,3.5,,,2023-10-01
+2023-09-08,4x4,2019,https://boxd.it/4OyUnZ,2.5,Yes,,2023-10-02
 2023-10-04,A Mother's Son,2012,https://boxd.it/4WcPOp,4,,,2023-10-03
 2023-10-05,The Heist of the Century,2020,https://boxd.it/4WvtSH,4,Yes,,2023-10-04
 2024-12-30,At the Photographer's,1900,https://boxd.it/8dpPuH,3,,,2023-10-05
@@ -211,7 +206,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-04-06,Carmel: Who Killed Maria Marta?,2020,https://boxd.it/6drxfH,4.5,,,2024-04-04
 2024-04-06,The Walking Dead: The Ones Who Live,2024,https://boxd.it/6ds56f,4,Yes,,2024-04-05
 2024-04-07,Irish Wish,2024,https://boxd.it/6dQB2H,3,,,2024-04-06
-2024-04-08,After Hours,1985,https://boxd.it/6eollL,4.5,,,2024-04-07
+2024-04-08,After Hours,1985,https://boxd.it/6eollL,4.5,,"r-letterboxd, lbfilmclub, lbfcc-newyork",2024-04-07
 2024-04-09,Música,2024,https://boxd.it/6eUIOl,4,,,2024-04-08
 2024-04-10,The Spectacular Now,2013,https://boxd.it/6feWRD,5,Yes,,2024-04-09
 2024-04-11,The Tearsmith,2024,https://boxd.it/6fDfoD,3.5,,,2024-04-10
@@ -366,7 +361,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-09-09,Life in Holland,1911,https://boxd.it/7hNCW5,4,,,2024-09-08
 2024-09-10,"De Tripas, Corazón",1996,https://boxd.it/7iinkn,3.5,Yes,,2024-09-09
 2024-09-11,Longlegs,2024,https://boxd.it/7iKfhV,4,,,2024-09-10
-2024-09-12,"Disco, Ibiza, Locomía",2024,https://boxd.it/7j7XT1,5,,,2024-09-11
+2023-09-12,Remember Me,2010,https://boxd.it/4POu73,3.5,,,2024-09-11
 2024-09-13,Ángel Di María: Breaking Down the Wall,2024,https://boxd.it/7jtXoL,4,,,2024-09-12
 2024-09-14,What You Wish For,2023,https://boxd.it/7jRvTf,2.5,,,2024-09-13
 2024-09-15,Carnage,2011,https://boxd.it/7klL19,2,,,2024-09-14
@@ -473,7 +468,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2024-12-26,A Charlie Brown Christmas,1965,https://boxd.it/89TgXN,4.5,,,2024-12-25
 2024-12-27,Our Little Secret,2024,https://boxd.it/8aOC5R,3,,,2024-12-26
 2024-12-28,Carry-On,2024,https://boxd.it/8bGCs5,2.5,,,2024-12-27
-2024-12-29,Look Back,2024,https://boxd.it/8czd7r,4,,,2024-12-28
+2024-12-29,Look Back,2024,https://boxd.it/8czd7r,4,,"r-letterboxd, lbfilmraffle",2024-12-28
 2024-12-30,Falling for Christmas,2022,https://boxd.it/8dvvJ5,3.5,,,2024-12-29
 2024-12-31,The Darkest Darkness,2023,https://boxd.it/8etjnB,4.5,,,2024-12-30
 2025-01-01,No One Will Miss Us,2024,https://boxd.it/8fsxSZ,5,,,2024-12-31
@@ -492,7 +487,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-01-14,The Love Scam,2025,https://boxd.it/8sHCgj,3,,,2025-01-13
 2025-01-15,The Crime of Padre Amaro,2002,https://boxd.it/8ttN53,4,,,2025-01-14
 2025-01-16,The Words,2012,https://boxd.it/8uddy1,4.5,,,2025-01-15
-2025-01-17,My Own Private Idaho,1991,https://boxd.it/8uXO1F,3.5,,"cc2025, criterion challenge 2025, byc",2025-01-16
+2025-01-17,My Own Private Idaho,1991,https://boxd.it/8uXO1F,3.5,,"cc2025, criterion challenge 2025, byc, r-letterboxd, lbfilmclub, lbfcc-roadmovies",2025-01-16
 2025-03-09,The Sprinkler Sprinkled,1895,https://boxd.it/93TVkL,3.5,,,2025-01-17
 2025-01-19,Young Hunter,2020,https://boxd.it/8wrr7f,3.5,,,2025-01-18
 2025-01-20,Premonitions Following an Evil Deed,1995,https://boxd.it/8xh2L9,3,,,2025-01-19
@@ -514,7 +509,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-02-05,Babygirl,2024,https://boxd.it/8JpETf,4.5,,,2025-02-04
 2025-02-06,A Different Man,2024,https://boxd.it/8K1wK1,4.5,,,2025-02-05
 2025-02-07,The Devil's Own,1997,https://boxd.it/8KyCBF,4.5,Yes,,2025-02-06
-2025-02-08,Heat,1995,https://boxd.it/8LbP6t,4.5,,,2025-02-07
+2025-02-08,Heat,1995,https://boxd.it/8LbP6t,4.5,,"r-letterboxd, lbfilmraffle",2025-02-07
 2025-02-09,The Dog Outwits the Kidnapper,1908,https://boxd.it/8LR0hz,3,,,2025-02-08
 2025-02-10,How It Feels to Be Run Over,1900,https://boxd.it/8MDuT5,3.5,,,2025-02-09
 2025-02-11,The Kid,1921,https://boxd.it/8Nlqid,4.5,,"cc2025, criterion challenge 2025",2025-02-10
@@ -554,12 +549,12 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-03-17,Fear and Loathing in Las Vegas,1998,https://boxd.it/990cCp,4,Yes,"cc2025, criterion challenge 2025, r-letterboxd, lbfilmclub, lbfcc-vivalasvegas",2025-03-16
 2025-03-18,A Silent Death,2025,https://boxd.it/99F8Lf,2.5,,,2025-03-17
 2025-03-19,Like Crazy,2011,https://boxd.it/9ag6bt,5,Yes,,2025-03-18
-2025-03-20,Femme,2023,https://boxd.it/9aMgz5,4.5,,,2025-03-19
+2025-03-20,Femme,2023,https://boxd.it/9aMgz5,4.5,,"r-letterboxd, lbfilmraffle",2025-03-19
 2025-03-21,Red Rooms,2023,https://boxd.it/9bitq5,4.5,,,2025-03-20
 2025-04-12,Making of The Last of Us,2023,https://boxd.it/9nxYox,5,Yes,,2025-03-21
 2025-03-23,Black Mirror: Striking Vipers,2019,https://boxd.it/9ck0wB,4,Yes,,2025-03-22
 2025-03-24,Black Mirror: Smithereens,2019,https://boxd.it/9d0YgR,4,Yes,,2025-03-23
-2025-03-25,The 400 Blows,1959,https://boxd.it/9dL26N,5,,"cc2025, criterion challenge 2025",2025-03-24
+2025-03-25,The 400 Blows,1959,https://boxd.it/9dL26N,5,,"cc2025, criterion challenge 2025, r-letterboxd, lbfilmclub, lbfcc-frenchnewwave",2025-03-24
 2025-03-26,Point Break,1991,https://boxd.it/9egNM9,5,Yes,byc,2025-03-25
 2025-03-27,The Parenting,2025,https://boxd.it/9eKOhV,4,,,2025-03-26
 2025-03-28,Holland,2025,https://boxd.it/9fh3xN,3.5,,,2025-03-27
@@ -589,7 +584,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-04-21,"Love, Death & Robots: The Witness",2019,https://boxd.it/9t2DxF,4.5,Yes,,2025-04-20
 2025-04-22,Call Me Francis,2015,https://boxd.it/9tMRmj,3,,,2025-04-21
 2025-04-23,September 5,2024,https://boxd.it/9urNIR,4.5,,,2025-04-22
-2025-04-24,Shiva Baby,2020,https://boxd.it/9v4M2t,4,,,2025-04-23
+2025-04-24,Shiva Baby,2020,https://boxd.it/9v4M2t,4,,"r-letterboxd, lbfilmraffle",2025-04-23
 2025-04-25,Rocco and His Brothers,1960,https://boxd.it/9vAS0n,5,,"cc2025, criterion challenge 2025",2025-04-24
 2025-04-26,Apple Cider Vinegar,2025,https://boxd.it/9w5vz7,5,,,2025-04-25
 2025-04-27,Pope Leo XIII Being Seated Bestowing Blessing,1900,https://boxd.it/9wCBSv,3,,,2025-04-26
@@ -606,7 +601,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-05-08,The Eternaut,2025,https://boxd.it/9DeNjR,5,,,2025-05-07
 2025-05-09,Last Summer,2023,https://boxd.it/9DHRvF,4.5,,"cc2025, criterion challenge 2025",2025-05-08
 2025-05-10,Blow Out,1981,https://boxd.it/9EaOW7,3.5,,"r-letterboxd, lbfilmraffle, cc2025, criterion challenge 2025",2025-05-09
-2025-05-11,The Shop Around the Corner,1940,https://boxd.it/9EKJDL,5,,,2025-05-10
+2025-05-11,The Shop Around the Corner,1940,https://boxd.it/9EKJDL,5,,"r-letterboxd, lbfilmraffle",2025-05-10
 2025-05-12,Bad Influence,2025,https://boxd.it/9FoADR,2,,,2025-05-11
 2025-05-13,Final Destination,2000,https://boxd.it/9G4rQh,4,Yes,,2025-05-12
 2025-05-14,Final Destination 2,2003,https://boxd.it/9GzIFx,3,Yes,,2025-05-13
@@ -660,7 +655,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-07-02,The Double Life of Véronique,1991,https://boxd.it/abpjAB,3.5,,"cc2025, criterion challenge 2025, byc",2025-07-01
 2025-07-03,Bring Her Back,2025,https://boxd.it/ac3CQt,4,,,2025-07-02
 2025-07-04,On Swift Horses,2024,https://boxd.it/acEtrD,4.5,,,2025-07-03
-2025-07-05,Man in Love,2021,https://boxd.it/adkMGh,4.5,,,2025-07-04
+2025-07-05,Man in Love,2021,https://boxd.it/adkMGh,4.5,,"r-letterboxd, lbfilmraffle",2025-07-04
 2025-07-06,"Love, Death & Robots: Automated Customer Service",2021,https://boxd.it/adWE8x,4.5,,,2025-07-05
 2025-07-07,"Love, Death & Robots: Ice",2021,https://boxd.it/aeJGNl,2.5,Yes,,2025-07-06
 2025-07-08,Defending Your Life,1991,https://boxd.it/afzwl1,4.5,,"cc2025, criterion challenge 2025, byc",2025-07-07
@@ -705,7 +700,7 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-08-16,Homo Argentum,2025,https://boxd.it/aJVuhb,1,,,2025-08-15
 2025-08-17,12 Angry Men,1957,https://boxd.it/aKNP9F,5,,"lbfcc-singlelocation, r-letterboxd, lbfilmclub, cc2025, criterion challenge 2025",2025-08-16
 2025-08-18,"Love, Death & Robots: All Through the House",2021,https://boxd.it/aLv3u9,4,,,2025-08-17
-2025-08-19,Chinatown,1974,https://boxd.it/aMmOsb,4,,,2025-08-18
+2025-08-19,Chinatown,1974,https://boxd.it/aMmOsb,4,,"r-letterboxd, lbfilmraffle",2025-08-18
 2025-08-20,Night Always Comes,2025,https://boxd.it/aN5HaT,4,,,2025-08-19
 2025-08-21,The Map That Leads to You,2025,https://boxd.it/aNMkoz,5,,,2025-08-20
 2025-08-22,Hallow Road,2025,https://boxd.it/aOrmwx,4.5,,,2025-08-21
@@ -749,3 +744,34 @@ Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date
 2025-09-29,El novio de mamá,2025,https://boxd.it/bcFlLZ,3,,,2025-09-28
 2025-09-30,All of You,2024,https://boxd.it/bdqkcj,4.5,,,2025-09-29
 2025-10-01,Monsters: The Lyle and Erik Menendez Story,2024,https://boxd.it/bdYXhZ,5,Yes,,2025-09-30
+2025-10-12,2:37,2006,https://boxd.it/bkEPSh,4,Yes,,2025-10-01
+2025-10-03,Coherence,2013,https://boxd.it/bf7qtl,4,,,2025-10-02
+2025-10-04,The Last Showgirl,2024,https://boxd.it/bfK1C1,4,,,2025-10-03
+2025-10-05,Rollercoaster,1977,https://boxd.it/bgqFBL,4,,"letterboxd season challenge, lsc11, lsc11 week5",2025-10-04
+2025-10-06,Gunman,2025,https://boxd.it/bh7hHB,4.5,,,2025-10-05
+2025-10-07,Who Is Luigi Mangione?,2025,https://boxd.it/bhULon,2,,,2025-10-06
+2025-10-08,Good Boy,2025,https://boxd.it/biq45h,3.5,,,2025-10-07
+2025-10-09,Steve,2025,https://boxd.it/biYjMX,4,,,2025-10-08
+2025-10-10,Sacramento,2024,https://boxd.it/bjzbed,4.5,,,2025-10-09
+2025-10-11,Maintenance Required,2025,https://boxd.it/bk4Di5,2,,,2025-10-10
+2025-10-12,The Wild Party,1929,https://boxd.it/bkK23L,4,,"letterboxd season challenge, lsc11, lsc11 week6",2025-10-11
+2025-10-13,My Fault,2023,https://boxd.it/blxeFZ,4,,,2025-10-12
+2025-10-14,Your Fault,2024,https://boxd.it/bmgRk7,3.5,,,2025-10-13
+2025-10-15,A Big Bold Beautiful Journey,2025,https://boxd.it/bmXpuf,5,,,2025-10-14
+2025-10-16,Nocturnal Animals,2016,https://boxd.it/bnuL3r,5,,"letterboxd season challenge, lsc11, lsc11 week7",2025-10-15
+2025-10-17,When Harry Met Sally...,1989,https://boxd.it/bo6cFr,5,,"r-letterboxd, lbfilmraffle",2025-10-16
+2025-10-18,Love,2015,https://boxd.it/boEKcV,4.5,,,2025-10-17
+2025-10-19,Homicide,1991,https://boxd.it/bplelx,4,,"cc2025, criterion challenge 2025, byc",2025-10-18
+2025-10-20,The Woman in the Line,2025,https://boxd.it/bq86BF,4,,,2025-10-19
+2025-10-21,Our Fault,2025,https://boxd.it/bqUHEd,3.5,,,2025-10-20
+2025-10-22,Mothering Sunday,2021,https://boxd.it/brCsKX,4.5,,"r-letterboxd, lbfilmraffle",2025-10-21
+2025-10-23,It,2017,https://boxd.it/bsaqrH,4,Yes,,2025-10-22
+2025-10-24,Lazarus,2025,https://boxd.it/bsOspj,4,,,2025-10-23
+2025-10-25,Psychos in Love,1987,https://boxd.it/btmKln,3.5,,"letterboxd season challenge, lsc11, lsc11 week8",2025-10-24
+2025-10-26,7 Boxes,2012,https://boxd.it/bu4pnb,4.5,,,2025-10-25
+2023-09-02,On the Line,2022,https://boxd.it/4MNHxf,1.5,,,2025-10-26
+2025-10-28,It Chapter Two,2019,https://boxd.it/bvNEyd,4,,,2025-10-27
+2023-09-13,Miracle in Cell No. 7,2019,https://boxd.it/4Q48gJ,4.5,,,2025-10-28
+2025-10-30,Midsommar,2019,https://boxd.it/bx4LEF,5,,"letterboxd season challenge, lsc11, lsc11 week9",2025-10-29
+2024-09-12,"Disco, Ibiza, Locomía",2024,https://boxd.it/7j7XT1,5,,,2025-10-30
+2025-11-01,The Vanishing,1988,https://boxd.it/bymESZ,5,,"r-letterboxd, lbfilmraffle",2025-10-31
